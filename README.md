@@ -47,11 +47,13 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
 ## Schedule
 
 - `(01)` Feb. 6th, 2023:
-    - Python introduction
+    - General course introduction
+    - [Git/GitHub introduction](01_python/git_github_intro.md)
     - Python notebooks
-    - Git/GitHub introduction
+    - [Python basic](01_python/python_basic.ipynb)
+    - [Python lists and tuples](01_python/python_lists_tuples.ipynb)
 - `(02)` Feb. 13th:
-    - Python collections
+    - Python other collections: set, dict...
     - Git/GitHub practice
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: start
 - `(03)` Feb. 20th:
