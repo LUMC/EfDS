@@ -51,6 +51,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Git/GitHub introduction](01_python/git_github_intro.md)
     - Python notebooks
     - [Python basic](01_python/python_basic.ipynb)
+    - [Memory organization](01_python/memory_organization.md)
     - [Python lists and tuples](01_python/python_lists_tuples.ipynb)
 - `(02)` Feb. 13th:
     - Python other collections: set, dict...

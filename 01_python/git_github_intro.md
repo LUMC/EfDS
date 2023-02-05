@@ -24,7 +24,7 @@ Important points:
 - At any moment all files of the project can be `checked out` (i.e. recreated from the local repository in the working directory, to have exactly the same content as at the moment of an earlier commit).
 - A new, independent working directory for the project can be `cloned` and later synchronized (`merged`).
 
-![](git_simple_cmds.jpg)
+![](./git_simple_cmds.jpg)
 
 ## GitHub
 
@@ -37,3 +37,17 @@ Some example repositories:
     - The web pages served by GitHub based on the sources: https://lumc.github.io/rcourse/
 - Many python related repositories: https://github.com/python
 
+## Tasks to practice
+
+- Learn how to `clone` the course materials on your computer.
+
+- Create your own account on GitHub.
+- Create your first local repository:
+    - First create a new directory for Python files developed during this course.
+    - Initialize a git repository in this directory (`git init` console/terminal command)
+    - Create a `README.md` markdown file with a trivial description of the directory content.
+    - Copy a Python notebook file to the directory.
+    - Use `git add` commands to declare that the new files should be put to the repository.
+    - Use `git commit` command to create a new commit in the repository.
+- Create a new repository on GitHub. Follow the presented instructions to connect your local repository to the new GitHub one.
+- Use `git push` to push your commited local repository to GitHub. After this operation you should see new content in GitHub.
