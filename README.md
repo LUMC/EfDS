@@ -54,25 +54,25 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Memory organization](01_python/memory_organization.md)
     - [Python lists and tuples](01_python/python_lists_tuples.ipynb)
 - `(02)` Feb. 13th:
-    - Python other collections: set, dict...
+    - [Python sets and dictionaries](02_python/python_sets_dicts.ipynb)
     - Git/GitHub practice
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: start
 - `(03)` Feb. 20th:
     - Python flow and functions
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: start
 - `(04)` Feb. 27th:
     - Python objects
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: start
 - `(05)` Mar. 6th:
     - Python standard libraries
     - Python scripts
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: primary deadline, 17:00
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: start
 - `(06)` Mar. 13th:
     - Data manipulation
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: primary deadline, 17:00
 - `(07)` Mar. 20th:
     - Data manipulation
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline, 17:00
 - `(08)` Apr. 3rd:
     - Data visualisation
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline, 17:00
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: start
 - `(09)` Apr. 17th:
     - Relational databases and SQL language
