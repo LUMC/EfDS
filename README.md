@@ -55,7 +55,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Python lists and tuples](01_python/python_lists_tuples.ipynb)
 - `(02)` Feb. 13th:
     - [Python sets and dictionaries](02_python/python_sets_dicts.ipynb)
-    - Git/GitHub practice
+    - [Git/GitHub practice](02_python/git_practice.md)
 - `(03)` Feb. 20th:
     - Python flow and functions
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: start
