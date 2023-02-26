@@ -60,7 +60,8 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Python flow control and user functions](03_python/python_flow_control.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: start
 - `(04)` Feb. 27th:
-    - Python objects
+    - [Python object oriented programming](04_python/python_oop.ipynb)
+    - [Git/GitHub assignment preparation](04_python/git_assignment.md)
 - `(05)` Mar. 6th:
     - Python standard libraries
     - Python scripts
@@ -86,7 +87,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - General Q&A and group assignment Q&A, programming practice
 - `(13)` May 15th:
     - Machine learning libraries (examples)
-- `(14)` May 22nd:
+- `(14)` May 22th:
     - FAIR & data stewardship
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: start
 - `(--)` May 29th:
