@@ -1,4 +1,4 @@
-# Git/GitHub assignment prepraration
+# (TEST VERSION, DO NOT USE YET) Git/GitHub assignment prepraration
 
 ## Introduction
 
@@ -118,3 +118,35 @@ git commit -m "solved task 2"
 git push
 ```
 - After `push` you should see files of the newest `commit` on the GitHub page.
+
+## Grant access
+
+In order to evaluate your solutions, the teachers need read access to your repository.  
+On the GitHub page of your repository go to *Settings* and next *Collaborators and Teams*.  
+Use *Add people* button to grant *Read* access to the teachers: `SzMK-LUMC` and `Mo-LUMC`.
+
+## Register your repository
+
+In order to submit your grade, the teachers need to link your GitHub repository with your university account.  
+In the following Python code edit your name, your student id and the SSH link to your GitHub assignments repository.  
+Run the edited Python code to generate `assignments.json` file.  
+In *Brightspace*, submit this file as a solution of the *SSH link to your GitHub repository* assignment.
+
+```python
+import json
+
+assignmentsInfo = {
+    "firstName": "John",                          # [1] put your first name here (spelled as in Brightspace)
+    "lastName": "Smith",                          # [2] put your last name here (spelled as in Brightspace)
+    "studentId": "s12345678",                     # [3] put your student id (spelled as in Brightspace)
+    "sshGitHub": "git@github.com:LUMC/EfDS.git"   # [4] copy here the SSH address of your GitHub repository
+                                                  #     (you may find it when you press the green Code button)
+}
+
+with open( "assignments.json", "w" ) as f:        # [5] run this cell to generate assignments.json file
+    json.dump( obj = assignmentsInfo, fp = f )
+
+                                                  # [6] submit the assignments.json file as a solution of
+                                                  #     "SSH link to your GitHub repository"
+                                                  #     assignment
+```
