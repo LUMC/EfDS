@@ -1,4 +1,4 @@
-# (TEST VERSION, DO NOT USE YET) Git/GitHub assignment prepraration
+# Git/GitHub assignment prepraration
 
 ## Introduction
 
