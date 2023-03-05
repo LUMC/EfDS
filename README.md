@@ -63,8 +63,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Python object oriented programming](04_python/python_oop.ipynb)
     - [Git/GitHub assignment preparation](04_python/git_assignment.md)
 - `(05)` Mar. 6th:
-    - Python standard libraries
-    - Python scripts
+    - [Python standard libraries and scripts](05_python/python_rest.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: start
 - `(06)` Mar. 13th:
     - Data manipulation
@@ -87,7 +86,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - General Q&A and group assignment Q&A, programming practice
 - `(13)` May 15th:
     - Machine learning libraries (examples)
-- `(14)` May 22th:
+- `(14)` May 22nd:
     - FAIR & data stewardship
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: start
 - `(--)` May 29th:
