@@ -66,7 +66,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Python standard libraries and scripts](05_python/python_rest.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: start
 - `(06)` Mar. 13th:
-    - [Data manipulation:NumPy](06_np/np.ipynb)&nbsp;&nbsp;[[Exercises](06_np/np_exercises.ipynb)]
+    - [Data manipulation: NumPy](06_np/np.ipynb)&nbsp;&nbsp;[[Exercises](06_np/np_exercises.ipynb)]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: primary deadline, 17:00
 - `(07)` Mar. 20th:
     - Data manipulation
