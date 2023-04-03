@@ -72,7 +72,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Data manipulation:pandas](07_pd/pd.ipynb)&nbsp;&nbsp;[[Exercises](07_pd/pd_exercises.ipynb)]&nbsp;&nbsp;[[Solutions](07_pd/pd_exercises_solutions.ipynb)]
 - `(08)` Apr. 3rd:
     - [Data visualisation](08_dv/dv.ipynb)&nbsp;&nbsp;[[Exercises](08_dv/dv_exercises.ipynb)]
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline, 17:00
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline, 23:59
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: start
 - `(09)` Apr. 17th:
     - Relational databases and SQL language
@@ -81,7 +81,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: start
 - `(11)` May 1st:
     - Python SQL Toolkit and Object Relational Mapper (SQLAlchemy)
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: primary deadline, 17:00
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: primary deadline, 23:59
 - `(12)` May 8th:
     - General Q&A and group assignment Q&A, programming practice
 - `(13)` May 15th:
@@ -89,13 +89,13 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
 - `(14)` May 22nd:
     - FAIR & data stewardship
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: start
-- `(--)` May 29th:
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (17:00)
+- `(--)` June 1st:
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline, 23:59
 - `(--)` June 5th
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :office: **Exam**
 - `(--)` June 12th
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: :green_book: :blue_book: **Assignments A, B, C**: secondary deadline, 17:00
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: deadline, 17:00
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: deadline, 23:59
 - `(--)` June 26th
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :office: **Retake**
 
