@@ -94,7 +94,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
 - `(--)` June 5th
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :office: **Exam**
 - `(--)` June 12th
-    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: :green_book: :blue_book: **Assignments A, B, C**: secondary deadline, 17:00
+    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: :green_book: :blue_book: **Assignments A, B, C**: secondary deadline, 23:59
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: deadline, 23:59
 - `(--)` June 26th
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :office: **Retake**
