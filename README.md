@@ -75,7 +75,15 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline, 23:59
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: start
 - `(09)` Apr. 17th:
-    - Relational databases and SQL language
+    - Relational databases:
+        - [Database, database models and DataBase Management Systems](09_sql/db_database.md)
+        - [Database related terms](09_sql/db_related.md)
+        - [Relation/table](09_sql/db_table.md)
+        - [Keys, primary keys, prime attributes](09_sql/db_keys.md)
+    - SQL language:
+        - [Downloading and connecting to the example database](09_sql/connect_to_database.ipynb)
+        - [Querying and selecting data](09_sql/SELECT_basic.ipynb) (`SELECT`, `LIMIT`, `AS`, `ORDER`, `DISTINCT`, `WHERE`, `IN`, `BETWEEN`, `LIKE`) [[Exercises](09_sql/SELECT_basic.exercises.ipynb)]
+        - [Grouping and summarising](09_sql//SELECT_groups.ipynb) (`GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `GROUP_CONCAT`) [[Exercises](09_sql/SELECT_groups.exercises.ipynb)]
 - `(10)` Apr. 24th
     - Relational databases and SQL language
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: start
