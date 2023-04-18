@@ -1,0 +1,15 @@
+name: EfDS
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mysql
+  - sqlalchemy
+  - pysqlite3
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - ipykernel
+  - ipython-sql
+
