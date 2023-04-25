@@ -3,6 +3,8 @@
 The group assignment has been designed for groups of 6 students. Groups with 5 or 4 students are also possible.
 Please use Brightspace to form your groups.
 
+In addition to this document, in Brightspace you will find a separate zip file with the dataset.
+
 ## Learning goals
 
 In this group assignment you will apply the skills which you have learned to a raw real-world dataset.  
