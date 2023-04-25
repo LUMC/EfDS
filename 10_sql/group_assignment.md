@@ -249,15 +249,37 @@ Here are some example questions which can be studied in a report (the students a
 - The devices are not ideal - how to identify periods when a device is not working?
 - What is the difference between the measured (garden) and predicted (from the weather server; for Nordwijk) temperature?
 
-## Summary
+## Submission
 
-The project should be delivered as a dedicated, private git repository containing the following files:
-- `README.md` file with the description of the project and instructions how to run the tools and the reports.
+The project should be delivered as a dedicated, **private** git repository containing the following files:
+
+- `README.md` file with the description of the project, project files and instructions how to run the tools and the reports.
 - `home_messages_db.py` file with a documented implementation of the `HomeMessagesDB` class (and eventually other classes).
-- Command line tools (Python scripts).
-- Reports (Python notebooks).
+- The command line tools (Python scripts).
+- The reports (Python notebooks).
 
-The repository should be shared with the teachers (Szymon M. Kielbasa, Mo Arkani).
+The GitHub repository should be shared with the teachers (`SzMK-LUMC` and `Mo-LUMC`).
+
+The SSH link to the repository should be submitted as a solution of the *SSH link to the Group Assignment repository* assignment in *Brightspace*.
+In the following Python code edit your group id/name and the SSH link to your GitHub group assignment repository.  
+Run the edited Python code to generate `group_assignment.json` file. In *Brightspace*, submit this file.
+
+```python
+import json
+
+info = {
+    "groupName": "group_99",                      # [1] put student ids of the group members
+    "sshGitHub": "git@github.com:LUMC/EfDS.git"   # [2] copy here the SSH address of the group assignment GitHub repository
+                                                  #     (you may find it when you press the green Code button)
+}
+
+with open( "group_assignment.json", "w" ) as f:   # [3] run this cell to generate group_assignment.json file
+    json.dump( obj = info, fp = f )
+
+                                                  # [4] submit the assignments.json file as a solution of
+                                                  #     "SSH link to the Group Assignment repository"
+                                                  #     assignment
+```
 
 ## Grading
 
