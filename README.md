@@ -37,7 +37,7 @@ During the course you will practice writing [Python](https://www.python.org/) co
 - use Python standard libraries (reading/writing files in different formats; `math`, `statistics`, `random`)
 - use common data science libraries ([NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/))
 - understand relational databases and use [SQL](https://www.w3schools.com/sql/) to create, query, update a database
-- use [SQLAlchemy](https://www.sqlalchemy.org/) for Python object-oriented database access
+- understand basics of [SQLAlchemy](https://www.sqlalchemy.org/) for Python object-oriented database access
 - understand how to execute several machine learning algorithms
 - use [git](https://git-scm.com/) and [GitHub](https://github.com/) for individual and collaborative code development
 - explain the relevance of data stewardship and [FAIR principles](https://en.wikipedia.org/wiki/FAIR_data) for scientific research
@@ -103,6 +103,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Python SQL Toolkit and Object Relational Mapper (SQLAlchemy)](11_sql/orm_practice.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: primary deadline, 23:59
 - `(12)` May 8th:
+    - More details on git and GitHub
     - General Q&A and group assignment Q&A, programming practice
 - `(13)` May 15th:
     - Machine learning libraries (examples)
