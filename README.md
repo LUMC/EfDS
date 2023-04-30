@@ -29,16 +29,18 @@ Finally, relevance of data stewardship and [FAIR principles](https://en.wikipedi
 
 ## Course Objectives
 
-After the course you will be able to:
+During the course you will practice writing [Python](https://www.python.org/) code. After the course you will be able to:
 
-- write and execute a Python program or Python-notebook script/report
-- read/write data stored in standard tabular/hierarchical formats
-- perform data manipulation operations (table filtering, merging, wide/long conversion)
-- visualise histograms, scatter plots, etc.
-- execute several machine learning algorithms
-- explain the relevance of data stewardship for scientific research
-- properly handle research data during the complete data life cycle (planning research, collecting data, processing & analyzing data, preserving data, giving access to data, re-using data)
-- apply the FAIR principles (Findable, Accessible, Interoperable, Reusable)
+- use Python collections (`list`, `tuple`, `set`, `dict`)
+- use Python flow control statements (`if`, `for`, `while`, exceptions), context managers (`with`) and define user functions
+- understand Python classes (instance variables, methods, inheritance)
+- use Python standard libraries (reading/writing files in different formats; `math`, `statistics`, `random`)
+- use common data science libraries ([NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/))
+- understand relational databases and use [SQL](https://www.w3schools.com/sql/) to create, query, update a database
+- use [SQLAlchemy](https://www.sqlalchemy.org/) for Python object-oriented database access
+- understand how to execute several machine learning algorithms
+- use [git](https://git-scm.com/) and [GitHub](https://github.com/) for individual and collaborative code development
+- explain the relevance of data stewardship and [FAIR principles](https://en.wikipedia.org/wiki/FAIR_data) for scientific research
 
 ## Time/location
 
@@ -98,7 +100,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
         - [Joining tables 2](10_sql/JOIN_adv.ipynb) (`UNION`, `EXCEPT`, `INTERSECT`, self joins, `CROSS JOIN`, subqueries, `EXIST`) [[Exercises](10_sql/JOIN_adv.exercises.ipynb)]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: start
 - `(11)` May 1st:
-    - Python SQL Toolkit and Object Relational Mapper (SQLAlchemy)
+    - [Python SQL Toolkit and Object Relational Mapper (SQLAlchemy)](11_sql/orm_practice.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: primary deadline, 23:59
 - `(12)` May 8th:
     - General Q&A and group assignment Q&A, programming practice
