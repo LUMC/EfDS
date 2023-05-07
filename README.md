@@ -103,7 +103,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - [Python SQL Toolkit and Object Relational Mapper (SQLAlchemy)](11_sql/orm_practice.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: primary deadline, 23:59
 - `(12)` May 8th:
-    - More details on git and GitHub
+    - [Git branching and merging](12_git/git_branching_merging.md)
     - General Q&A and group assignment Q&A, programming practice
 - `(13)` May 15th:
     - Machine learning libraries (examples)
