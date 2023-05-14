@@ -107,6 +107,8 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - General Q&A and group assignment Q&A, programming practice
 - `(13)` May 15th:
     - Machine learning libraries (examples)
+        - [scikit-learn](13_ml/sklearn.ipynb)
+        - [Keras](13_ml/keras.ipynb)
 - `(14)` May 22nd:
     - FAIR & data stewardship
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: start
