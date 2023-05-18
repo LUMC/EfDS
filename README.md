@@ -12,20 +12,18 @@ A course of [Statistics and Data Science master](https://www.universiteitleiden.
 
 ## Overview
 
-[Python](https://www.python.org/) and [SQL](https://www.w3schools.com/sql/) belong to the most frequently used programming languages of data science.
+The course offers a practical introduction to a few programming languages and tools currently used in data science:
 
-After this course the student shall be able to program simple reproducible analyses in Python.
-An analysis will consist of data reading, cleaning, simple modelling, and reporting steps.
-The state-of-the-art Python-specific data manipulation/visualization ([pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/)) and data science libraries will be discussed.
+- [Python](https://www.python.org/) is a general-purpose, high-level and easy to learn programming language. It provides a large number of data science libraries (e.g. machine learning, neural networks, data manipulation, data visualization).
+- [SQL](https://www.w3schools.com/sql/) is a standard language used to create, query, update and manage relational databases. For example, such databases are used in data science to store large tables with results of experiments.
+- [Git](https://git-scm.com/) is a tool that allows to track changes in files during development of programs. It is a current standard for collaborative code development.
 
-The students will be requested to write Python programs of growing complexity (from basic coding examples to fitting a machine learning model).
+During the course the students will write Python programs of growing complexity (from basic coding examples to fitting a machine learning model). After the course the students shall be able to program simple reproducible data analyses (consisting of data reading, cleaning, simple modelling, and reporting steps). The state-of-the-art Python-specific data manipulation/visualization ([pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/)) and data science libraries will be discussed.  
+Fundamentals of the relational databases and of the SQL language will be presented in a context of an example database ([SQLite](https://sqlite.org/index.html)). The database will be accessed through direct SQL statements and through high-level, object-oriented Python library ([SQLAlchemy](https://www.sqlalchemy.org/)).
 
-Fundamentals of the relational databases and of the SQL language will be discussed in a context of an example database ([SQLite](https://sqlite.org/index.html)).
-We will practice database usage through direct SQL statements and through high-level, object-oriented Python library ([SQLAlchemy](https://www.sqlalchemy.org/)).
+First, the students will work alone and practice individual code development. Later, shared code development will be practiced in groups. The students will be requested to use [git](https://git-scm.com/) to track changes in their code and to share their code with other students through [GitHub](https://github.com/).
 
-Moreover, the students will be requested to work in groups and practice shared code development ([git](https://git-scm.com/), [GitHub](https://github.com/)).
-
-Finally, relevance of data stewardship and [FAIR principles](https://en.wikipedia.org/wiki/FAIR_data) (Findable, Accessible, Interoperable, Reusable) will be discussed.
+Finally, the relevance of data stewardship and [FAIR principles](https://en.wikipedia.org/wiki/FAIR_data) (Findable, Accessible, Interoperable, Reusable) will be discussed.
 
 ## Course Objectives
 
@@ -107,6 +105,8 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
     - General Q&A and group assignment Q&A, programming practice
 - `(13)` May 15th:
     - Machine learning libraries (examples)
+        - [scikit-learn](13_ml/sklearn.ipynb)
+        - [Keras](13_ml/keras.ipynb)
 - `(14)` May 22nd:
     - FAIR & data stewardship
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: start
@@ -123,7 +123,7 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
 ## Grading
 
 - Components of the final grade:
-  - **Assignments A, B, C**:
+  - **Assignments A, B, C (each of weight 1; total weight 3)**:
     - Assignments A, B and C are separately graded.
     - The grade range is 1-10 but when the primary deadline is not met then the maximum grade is 8.
     - The mean grade of Assignments A, B and C is calculated and then rounded to 0.2 steps (e.g. ...7.6, 7.8, 8.0...).
@@ -148,12 +148,13 @@ Check the **Essentials for Data Science** course (`4433EDASCY`) at https://roost
 
 ## Installation
 
-For the course you will need to bring a laptop with properly installed Python and Jupyter Notebook development environment.  
+For the course you will need to bring a laptop with properly installed Python and a development environment.  
 Install (in the order listed below):
 
 - **Python** (version >= 3.?.?): Follow the download instructions at https://www.python.org/.
 - **pip**: The Python Package Installer. It should already be installed during Python installation. If that is not the case, follow https://pip.pypa.io/en/stable/installation/.
-- **Jupyter Notebook**: A (web) application for creating and sharing computational documents. Follow the instructions at https://jupyter.org/.
+- **Microsoft Visual Code**: A free source-code editor made by Microsoft for Windows, Linux and MacOS. Follow the instructions at https://code.visualstudio.com/.
+- **Jupyter Notebook** (optional): A (web) application for creating and sharing computational documents. Follow the instructions at https://jupyter.org/.
 
 Moreover, you will need:
 
