@@ -19,7 +19,7 @@
 
 - Simplifying, the *operational memory* of a computer can be thought as a huge (e.g. 8GB), one-dimensional vector of memory cells (each of size of one byte).  
     The bytes are ordered -- each has its unique, sequential index -- called the *memory address*.
-- When you *create* an object (for example a list) a memory manager *allocates* a region of memory for the object and then the object's data are created there.  
+- When you *create* an object (for example a list) a memory manager *allocates* a region of memory for the object and then the object's data are assigned there.  
     The memory address of the region's start, which is an integer number, is called *a pointer to* the object (or *a reference to* the object).
 -  Let's assume that a variable `var` contains a list and you execute `var2 = var`.\
     Note that there might be different behaviors here:
