@@ -14,23 +14,34 @@ A course of [Statistics and Data Science master](https://www.universiteitleiden.
 
 The course offers a practical introduction to a few programming languages and tools currently used in data science:
 
-- [Python](https://www.python.org/) is a general-purpose, high-level and easy to learn programming language. It provides a large number of data science libraries (e.g. machine learning, neural networks, data manipulation, data visualization).
-- [SQL](https://www.w3schools.com/sql/) is a standard language used to create, query, update and manage relational databases. For example, such databases are used in data science to store large tables with results of experiments.
-- [Git](https://git-scm.com/) is a tool that allows to track changes in files during development of programs. It is the current standard for collaborative code development.
+- [Python](https://www.python.org/) is a general-purpose, high-level and easy to learn programming language. It provides a large number of 
+data science libraries (e.g. machine learning, neural networks, data manipulation, data visualization).
+- [SQL](https://www.w3schools.com/sql/) is a standard language used to create, query, update and manage relational databases. For example, such 
+databases are used to store large tables with results of experiments.
+- [Git](https://git-scm.com/) is a tool that allows to track changes in files during development of programs. It is the current standard 
+for collaborative code development.
 
-During the course the students will write Python programs of growing complexity (from basic coding examples to fitting a machine learning model). After the course the students shall be able to program simple reproducible data analyses (consisting of data reading, cleaning, simple modelling, and reporting steps). The state-of-the-art Python-specific data manipulation/visualization ([pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/)) and data science libraries will be discussed.  
-Fundamentals of the relational databases and of the SQL language will be presented in a context of an example database ([SQLite](https://sqlite.org/index.html)). The database will be accessed through direct SQL statements and through high-level, object-oriented Python library ([SQLAlchemy](https://www.sqlalchemy.org/)).
+During the course the students will write Python programs of growing complexity (from basic coding examples to fitting 
+a machine learning model). After this course you will be able to program simple reproducible data analyses 
+(consisting of data reading, cleaning, simple modelling, and reporting steps). The state-of-the-art Python-specific 
+data manipulation/visualization ([pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/)) and data science libraries will be discussed.  
+Fundamentals of the relational databases and of the SQL language will be presented in a context of an example 
+database ([SQLite](https://sqlite.org/index.html)). The database will be accessed through direct SQL statements and through high-level 
+object-oriented Python library ([SQLAlchemy](https://www.sqlalchemy.org/)).
 
-First, the students will work alone and practice individual code development. Later, shared code development will be practiced in groups. The students will be requested to use [git](https://git-scm.com/) to track changes in their code and to share their code with other students through [GitHub](https://github.com/).
+First, you will work alone and practice code development. Later, shared code development will be practiced 
+in groups. The students will be requested to use [git](https://git-scm.com/) to track changes in their code and to share their code with 
+other students through [GitHub](https://github.com/).
 
-Finally, the relevance of data stewardship and [FAIR principles](https://en.wikipedia.org/wiki/FAIR_data) (Findable, Accessible, Interoperable, Reusable) will be discussed.
+Finally, the relevance of data stewardship and [FAIR principles](https://en.wikipedia.org/wiki/FAIR_data) (Findable, Accessible, Interoperable, Reusable) 
+will be discussed.
 
 ## Course Objectives
 
 During the course you will practice writing [Python](https://www.python.org/) code. After the course you will be able to:
 
 - :writing_hand: use Python collections (`list`, `tuple`, `set`, `dict`)
-- :writing_hand: use Python flow control statements (`if`, `for`, `while`, exceptions), context managers (`with`) and define user functions
+- :writing_hand: use Python flow control statements (`if`, `for`, `while`, exceptions), context managers (`with`) and define functions
 - :no_entry_sign: understand Python classes (instance variables, methods, inheritance)
 - :writing_hand: use Python standard libraries (reading/writing files in different formats; `math`, `statistics`, `random`)
 - :writing_hand: use common data science libraries ([NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/))
@@ -43,7 +54,8 @@ During the course you will practice writing [Python](https://www.python.org/) co
 ## Schedule
 
 The schedule given below might change:
-  - The primary source for lecture, exam and retake dates/locations is **Essentials for Data Science** course `4433EDASCY` schedule at https://rooster.universiteitleiden.nl/. Here the dates are manually copied and errors are possible.
+  - The primary source for lecture, exam and retake dates/locations is **Essentials for Data Science** course `4433EDASCY` 
+schedule at https://rooster.universiteitleiden.nl/. The dates on this page are manually copied and may lag behind.
   - The order/content of the future lectures might be adjusted.
   - The dates of the assignments and the group assignment might be adjusted if order of the lectures changes.
 
@@ -68,10 +80,11 @@ The schedule:
     - [Python standard libraries and scripts](05_python/python_rest.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: start
 - `(06)` Mar. 12th:
-    - [Data manipulation:NumPy](06_np/np.ipynb)&nbsp;&nbsp;[[Exercises](06_np/np_exercises.ipynb)]&nbsp;&nbsp;[[Solutions](06_np/np_exercises_solutions.ipynb)] 
+    - [Data manipulation:NumPy](06_np/np.ipynb)&nbsp;&nbsp;[[Exercises](<!-- 06_np/np_exercises.ipynb
+ -->)]<!-- &nbsp;&nbsp;[[Solutions](06_np/np_exercises_solutions.ipynb)] -->
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: primary deadline (end-of-day)
 - `(07)` Mar. 19th:
-    - [Data manipulation:pandas](07_pd/pd.ipynb)&nbsp;&nbsp;[[Exercises](07_pd/pd_exercises.ipynb)]&nbsp;&nbsp;[[Solutions](07_pd/pd_exercises_solutions.ipynb)]
+    - [Data manipulation:pandas](07_pd/pd.ipynb)&nbsp;&nbsp;[[Exercises](<!-- 07_pd/pd_exercises.ipynb -->)] <!--&nbsp;&nbsp;[[Solutions](07_pd/pd_exercises_solutions.ipynb)]-->
 - `(08)` Apr. 2nd:
     - [Data visualisation](08_dv/dv.ipynb)&nbsp;&nbsp;[[Exercises](08_dv/dv_exercises.ipynb)]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline (end-of-day)
