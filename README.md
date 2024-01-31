@@ -80,13 +80,12 @@ The schedule:
     - [Python standard libraries and scripts](05_python/python_rest.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: start
 - `(06)` Mar. 12th:
-    - [Data manipulation:NumPy](06_np/np.ipynb)&nbsp;&nbsp;[[Exercises](<!-- 06_np/np_exercises.ipynb
- -->)]<!-- &nbsp;&nbsp;[[Solutions](06_np/np_exercises_solutions.ipynb)] -->
+    - [Data manipulation:NumPy](06_np/np.ipynb) &nbsp;&nbsp;[Exercises]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: primary deadline (end-of-day)
 - `(07)` Mar. 19th:
-    - [Data manipulation:pandas](07_pd/pd.ipynb)&nbsp;&nbsp;[[Exercises](<!-- 07_pd/pd_exercises.ipynb -->)] <!--&nbsp;&nbsp;[[Solutions](07_pd/pd_exercises_solutions.ipynb)]-->
+    - [Data manipulation:pandas](07_pd/pd.ipynb) &nbsp;&nbsp;[Exercises]
 - `(08)` Apr. 2nd:
-    - [Data visualisation](08_dv/dv.ipynb)&nbsp;&nbsp;[[Exercises](08_dv/dv_exercises.ipynb)]
+    - [Data visualisation](08_dv/dv.ipynb) &nbsp;&nbsp;[Exercises]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline (end-of-day)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: start
 - `(09)` Apr. 9th:
