@@ -130,7 +130,8 @@ Use *Add people* button to grant *Read* access to the teachers: `SzMK-LUMC` and 
 In order to submit your grade, the teachers need to link your GitHub repository with your university account.  
 In the following Python code edit your name, your student id and the SSH link to your GitHub assignments repository.  
 Run the edited Python code to generate `assignments.json` file.  
-In *Brightspace*, submit this file as a solution of the *SSH link to your GitHub repository* assignment.
+~In *Brightspace*, submit this file as a solution of the *SSH link to your GitHub repository* assignment.~
+Add the generated `assignments.json` file to your GitHub repository.
 
 ```python
 import json
