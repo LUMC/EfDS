@@ -80,7 +80,7 @@ The schedule:
     - [Python standard libraries and scripts](05_python/python_rest.ipynb)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: start
 - `(06)` Mar. 12th:
-    - [Data manipulation:NumPy](06_np/np.ipynb) &nbsp;&nbsp;[Exercises](06_np/np_exercises.ipynb)
+    - [Data manipulation:NumPy](06_np/np.ipynb) &nbsp;&nbsp;[[Exercises](06_np/np_exercises.ipynb)]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: primary deadline (end-of-day)
 - `(07)` Mar. 19th:
     - [Data manipulation:pandas](07_pd/pd.ipynb) &nbsp;&nbsp;[Exercises]
