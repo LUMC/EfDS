@@ -83,7 +83,7 @@ The schedule:
     - [Data manipulation:NumPy](06_np/np.ipynb) &nbsp;&nbsp;[[Exercises](06_np/np_exercises.ipynb)]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: primary deadline (end-of-day)
 - `(07)` Mar. 19th:
-    - [Data manipulation:pandas](07_pd/pd.ipynb) &nbsp;&nbsp;[Exercises]
+    - [Data manipulation:pandas](07_pd/pd.ipynb) &nbsp;&nbsp;[Exercises(07_pd/pd_exercises.ipynb)]
 - `(08)` Apr. 2nd:
     - [Data visualisation](08_dv/dv.ipynb) &nbsp;&nbsp;[Exercises]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline (end-of-day)
