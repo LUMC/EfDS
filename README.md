@@ -85,7 +85,7 @@ The schedule:
 - `(07)` Mar. 19th:
     - [Data manipulation:pandas](07_pd/pd.ipynb) &nbsp;&nbsp;[[Exercises](07_pd/pd_exercises.ipynb)]
 - `(08)` Apr. 2nd:
-    - [Data visualisation](08_dv/dv.ipynb) &nbsp;&nbsp;[Exercises]
+    - [Data visualisation](08_dv/dv.ipynb) &nbsp;&nbsp;[[Exercises](08_dv/dv_exercises.ipynb)]
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: primary deadline (end-of-day)
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: start
 - `(09)` Apr. 9th:
