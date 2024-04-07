@@ -3,8 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - jupysql
   - mysql
-  - sqlalchemy<2.0
+  - sqlalchemy
   - pysqlite3
   - numpy
   - pandas
@@ -12,4 +13,5 @@ dependencies:
   - matplotlib
   - ipykernel
   - ipython-sql
+  - conda-forge::gh
 
