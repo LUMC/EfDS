@@ -1,0 +1,288 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Emissions to air by the Dutch economy; national accounts ";"Emissions to air; national accounts";"83300ENG";"emissions to air, climate change, greenhouse gases, CO2, ozone layer
+air pollution, acidification, environmental accounts, ";"2022-12-05T02:00:00";"Redesign";"An additional breakdown for CO2 emissions has been added. CO2 emissions from biomass and CO2 emissions excluding biomass are available for the entire time series.";"en";"CBS";"Yearly";"1990-2021";"
+This table presents the air emission accounts, as a part of the annual environmental accounts compiled by Statistics Netherlands. 
+The air emission accounts describe the emissions of air pollutants and gases as a result of Dutch economic activities. This is including the emissions of residents abroad and excluding emissions of non-residents in the Netherlands. The emissions of the substances are allocated to the various economic activities. Emissions from natural sources are excluded as these emissions are not related to economic activities. In this table, the emission of pollutants and gases from stationary sources (such as power plants) as well as mobile sources (such as road transport) are allocated to the different industries or households. Included are CO (carbon monoxide); CO2 (carbon dioxide); CH4 (methane); N2O (nitrous oxide also known as laughing gas); NOx (nitrogen oxides (diversity)); SO2 (sulphur dioxide); NH3 (ammonia); PM10 (particulate matter with a diameter less than 10 micrometres); NMVOC (volatile organic compounds excluding methane (CH4)). The environmental accounts are compiled according to the concepts (such as the resident principle) and definitions of the national accounts, making it possible to quantify the environmental effects of the economic activities for the Netherlands in a consistent manner.
+
+Data available from: 1990
+
+Status of the figures:
+Figures for the latest year are provisional. In order to obtain a consistent time series, the complete data set is (re)calculated every year.
+The air emission accounts data are consistent in time and in compliance with the Dutch national accounts. The alignment between the environmental accounts and the national accounts however, takes place using a wide variety of sources. This means that, although every year the system required to perform the various calculations are similar and consistent, variation can occur due to changes in particular sources. As a result changes in emission factors from the emission inventory (pollutant release and transfer register, PRTR) and changing traffic and transport statistics affect the full time series of the air emission accounts. In order to obtain consistent time series, every year the entire time series are (re)calculated, enabling that latest insights in the data are captured.
+
+Changes as of November 2022:
+Data for 2021 have been added. Data for previous years are adjusted according to the revision policy (see: Status of the figures).
+An additional breakdown for CO2 emissions has been added. CO2 emissions from biomass and CO2 emissions excluding biomass are available for the entire time series.
+
+When will new figures be published?
+New annual figures will be published in November.
+";"Emissions to air by the Dutch economy; national accounts 
+CONTENTS
+
+1. General information
+2. Definitions and explanation of symbols
+3. Links to relevant tables and articles
+4. Sources and methods
+5. Further information
+
+1. GENERAL INFORMATION
+
+This table presents the air emission accounts, as a part of the annual environmental accounts compiled by Statistics Netherlands. 
+The air emission accounts describe the emissions of air pollutants and gases as a result of Dutch economic activities. This is including the emissions of residents abroad and excluding emissions of non-residents in the Netherlands. The emissions of the substances are allocated to the various economic activities. Emissions from natural sources are excluded as these emissions are not related to economic activities. In this table, the emission of pollutants and gases from stationary sources (such as power plants) as well as mobile sources (such as road transport) are allocated to the different industries or households. Included are CO (carbon monoxide); CO2 (carbon dioxide); CH4 (methane); N2O (nitrous oxide also known as laughing gas); NOx (nitrogen oxides (diversity)); SO2 (sulphur dioxide); NH3 (ammonia); PM10 (particulate matter with a diameter less than 10 micrometres); NMVOC (volatile organic compounds excluding methane (CH4)). The environmental accounts are compiled according to the concepts (such as the resident principle) and definitions of the national accounts, making it possible to quantify the environmental effects of the economic activities for the Netherlands in a consistent manner.
+
+Data available from: 1990
+
+Status of the figures:
+Figures for the latest year are provisional. In order to obtain a consistent time series, the complete data set is (re)calculated every year.
+The air emission accounts data are consistent in time and in compliance with the Dutch national accounts. The alignment between the environmental accounts and the national accounts however, takes place using a wide variety of sources. This means that, although every year the system required to perform the various calculations are similar and consistent, variation can occur due to changes in particular sources. As a result changes in emission factors from the emission inventory (pollutant release and transfer register, PRTR) and changing traffic and transport statistics affect the full time series of the air emission accounts. In order to obtain consistent time series, every year the entire time series are (re)calculated, enabling that latest insights in the data are captured.
+
+Changes as of November 2022:
+Data for 2021 have been added. Data for previous years are adjusted according to the revision policy (see: Status of the figures).
+An additional breakdown for CO2 emissions has been added. CO2 emissions from biomass and CO2 emissions excluding biomass are available for the entire time series.
+
+When will new figures be published?
+New annual figures will be published in November.
+
+2. DEFINITIONS AND EXPLANATION OF SYMBOLS
+
+Definitions:
+
+Air emissions
+Emissions of pollutants into the air.
+
+Emission factor
+Emission per unit of activity, e.g. per kilometre travelled, per vehicle kilometre or per kilogram of fuel used.
+
+Stationary sources
+Installations bound to a single location or other fixed point sources. Included are stationary installations for generating heat and / or electricity, industrial processing facilities, waste incineration installations and storage, transhipment and other handling activities that cause emissions. Emissions from stationary sources include those emissions not caused by mobile emission sources. 
+
+Mobile sources
+Specific sources of emissions, such as the vehicles used for the carriage of goods, passenger transport and the mobile equipment and machinery. The main contribution of emissions from mobile sources stem from the combustion of motor fuels. In addition emissions stem from the wear of tires, brakes and road surfaces and moreover the evaporation of fuel is accounted for. Emissions from mobile sources that stem from international road, air and sea transport by Dutch residents is also accounted for.
+
+Standard Industrial Classification 2008 (SIC 2008):
+The Dutch hierarchic classification of economic activities is used by Statistics Netherlands to classify private sector entities by main activity. The SIC 2008 is the version used since 2008.
+
+'Sector of industry' or 'branch' is the common term used to define businesses sharing the same main activity. 
+Statistics Netherlands uses the classification by main activity, the so-called Standard Industrial Classification (SIC). Businesses in a sector of industry or branch may also be engaged in other activities (subsidiary activities).
+
+The SIC 2008 includes various levels indicated by a maximum of five digits. The four-digits level corresponds to the classification employed by the European Union (NACE). The first two digits correspond to the United Nations classification (ISIC).
+
+Explanation of symbols:
+
+Empty cell : figure not applicable
+. : figure is unknown, insufficiently reliable or confidential
+* : provisional figure 
+** : revised provisional figure
+
+3. LINKS TO RELEVANT TABLES AND ARTICLES
+
+Relevant tables:
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70946ned/table?dl=1260F/""/>Emissions of greenhouse gases calculated according to IPCC requirements.</a>
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70947ned/table?dl=116D5/""/>Emissions to air calculated according to the NEC protocol.</a>
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37221/table?dl=12989/""/>Emissions to air on Dutch territory; totals.</a>
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7062/table?dl=274F6/""/>Emissions to air on Dutch territory; mobile sources.</a>
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83390NED/table?dl=12E9B/""/>Emissions to air on Dutch territory; stationary sources</a>
+
+Relevant publications:
+<a href=/""/https://www.cbs.nl/nl-nl/achtergrond/2016/50/broeikasgasemissies-door-de-nederlandse-economie/""/>Greenhouse gas emissions by the Dutch economy (Dutch only).</a>
+
+General information about economic topics can be found in theme <a href=/""/https://www.cbs.nl/en-gb/economy/macroeconomics/""/>Macroeconomics.</a>
+
+Dutch Environmental Data Compendium (CBS, PBL, and WUR): 
+<a href=/""/http://www.compendiumvoordeleefomgeving.nl/indicatoren/nl0165-Emissie-broeikasgassen-in-Nederland-volgens-IPCC.html?i=9-20/""/>Emissions to air, 1990-2016(Dutch only).</a>
+
+More information can be found in theme <a href=/""/https://www.cbs.nl/en-gb/society/nature-and-environment/""/>Nature and Environment.</a>
+
+4. SOURCES AND METHODS
+
+The air emission accounts determine and present the emissions of harmful substances caused by Dutch economic activity. Air emission accounts are consistent with the national accounts. As a result, the figures do deviate from the figures in the pollutant release and transfer register (PRTR), the National Environmental Balance and from recording and porting to the Intergovernmental Panel on Climate Change (IPCC) on greenhouse gas emissions. These publications are based on the emissions caused at the Dutch territory. In contrast however, air emissions accounts show, like the national accounts do, the emissions caused from activities by Dutch residents. This means that emissions by residents abroad are included and pollution by non-residents in the Netherlands is excluded in the compilation of the air emissions accounts. 
+
+In air emissions accounts, the emissions of the different substances and their contribution to specific environmental problems (environmental themes) are included. The emission of these substances are allocated to the various economic activities. Emissions from natural sources, such as methane released by peat soils or carbon dioxide released during the decomposition of organic material in nature conservation areas, are excluded. 
+
+Emissions from stationary sources are allocated to the industries using the emission inventory data. Emissions from mobile sources are allocated to the various industries by using auxiliary data like transport statistics and fuel use and its distribution over the different industries. As a result a detailed emission table is composed. The environmental issues distinguished are the greenhouse effect, ozone depletion and acidification.
+
+Figures from the <a href=/""/https://stats.oecd.org/Index.aspx?DataSetCode=AEA/""/>OECD</a> have been used for CO2 emissions from aviation These data have been calculated in accordance with the guidelines of the air emissions accounts.
+
+The survey method for this table can be found in the survey description <a href=/""/https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/milieurekeningen/""/>Research description Environmental Accounts (Dutch only).</a>
+
+5. FURTHER INFORMATION
+
+<a href='http://www.cbs.nl/en-GB/menu/informatie/publiek/inlichtingen/default.htm'>Infoservice</a>
+
+Copyright (c) Statistics Netherlands, The Hague/Heerlen
+Reproduction is permitted, provided Statistics Netherlands is quoted as the source. 
+
+";"ts=1669647246009&graphtype=Table&r=Periods&k=DutchEconomy&t=Topics";"$filter=((Periods eq '2006JJ00') or (Periods eq '2007JJ00') or (Periods eq '2008JJ00') or (Periods eq '2009JJ00') or (Periods eq '2010JJ00') or (Periods eq '2011JJ00') or (Periods eq '2012JJ00') or (Periods eq '2013JJ00') or (Periods eq '2014JJ00') or (Periods eq '2015JJ00') or (Periods eq '2016JJ00') or (Periods eq '2017JJ00') or (Periods eq '2018JJ00') or (Periods eq '2019JJ00') or (Periods eq '2020JJ00') or (Periods eq '2021JJ00'))&$select=DutchEconomy, Periods, TotalCO2_1";"Table,Bar,Line";"Regular";"CBS.";"2022-12-05T02:00:00";"3"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"DutchEconomy";"Dutch economy";"";;;;;
+"1";"1";;"TimeDimension";"Periods";"Periods";"";"true";;;;
+"2";;;"TopicGroup";"";"Greenhouse gases (climate change)";"Greenhouse gases in the atmosphere retain part of the solar heat that reaches the earth. The increased concentration of greenhouse gases means more heat is retained and the temperature of the earth's surface rises.
+This is called the 'enhanced greenhouse effect'. The most important greenhouse gases are carbon dioxide (CO2), methane (CH4), laughing gas (N2O), HFCs, PFCs and SF6. 
+";;;;;
+"3";;"2";"TopicGroup";"";"CO2";"";;;;;
+"4";"2";"3";"Topic";"TotalCO2_1";"Total CO2";"Carbon dioxide.
+Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually).
+";;"Double";"mln kgs";"0";"Impossible"
+"5";"3";"3";"Topic";"CO2ExclBiomass_2";"CO2 excl. biomass";"Carbon dioxide.excluding emissions from biomass.
+Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually).
+";;"Long";"mln kgs";"0";"Missing"
+"6";"4";"3";"Topic";"CO2Biomass_3";"CO2 biomass";"Carbon dioxide.emissions from biomass.
+Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually).
+";;"Double";"mln kgs";"1";"Impossible"
+"7";"5";"2";"Topic";"N2O_4";"N2O";"Laughing gas/dinitrogen oxide.
+N2O is formed during various chemical conversion processes, among which during the warming up phase of catalytic converters, as a result of incomplete conversion of nitrogen oxides (NOx) into nitrogen (N2).
+Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually).
+";;"Double";"mln kgs";"1";"Impossible"
+"8";"6";"2";"Topic";"CH4_5";"CH4";"Methane (= natural gas).
+Among other causes CH4 is formed by incomplete combustion of fuels, leakage from the natural gas network, and by fermentation.
+Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually).
+";;"Double";"mln kgs";"1";"Impossible"
+"9";"7";"2";"Topic";"GreenhouseGasEquivalents_6";"Greenhouse gas equivalents";"A measure of the degree to which a substance contributes to the greenhouse effect. A greenhouse gas equivalent equals the effect that the emission of 1 kg of carbon dioxide (CO2) has, as a reference. The emission of 1 kg of methane (CH4) is equal to 25 greenhouse gas equivalents, and the emission of 1 kg of nitrous oxide gas (N2O) equal to 298 greenhouse gas equivalents.
+The fluorine (chlorine) gases each have a high CO2 equivalent, but because the emitted quantities are relatively small, their contribution to the national total is small. The fluorine (chlorine) gases are only included in the total, but they are not specified.
+";;"Long";"x mln";"0";"Impossible"
+"10";;;"TopicGroup";"";"Acidification";"Process which causes the acidification of soil and water as a result of the emission of polluting substances like NOx, SO2, NH3 and VOS (volatile organic substances) into the air and their consequent penetration into water and soil. Acidifying substances are included under the environmental theme /""/large-scale air pollution/""/. ";;;;;
+"11";"8";"10";"Topic";"NOx_7";"NOx";"Nitrogen oxides (NOx = NO and NO2, calculated as NO2).
+Causes acidification and contributes to generating smog.
+";;"Double";"mln kgs";"1";"Impossible"
+"12";"9";"10";"Topic";"SO2_8";"SO2";"Sulphur dioxide (SO2 and SO3, calculated as SO2).
+SO2 is formed by the combustion of sulphur in fuels.
+SO2 contributes to acidification.
+";;"Double";"mln kgs";"1";"Impossible"
+"13";"10";"10";"Topic";"NH3_9";"NH3";"Ammonia (NH3).
+NH3 is formed in particular during natural processes and also, to a lesser degree, during the combustion of fuels and during specific industrial processes. The main source is manure.
+NH3 contributes to acidification.
+";;"Double";"mln kgs";"1";"Impossible"
+"14";"11";"10";"Topic";"AcidificationEquivalents_10";"Acidification equivalents";"A measure of the degree to which a substance contributes to the acidification of the environment.The emission of one kg nitrogen oxides (NOx)  is equal to 21.7 acidification equivalents, the emission of one 1 kg sulphur dioxide (SO2)  is equal to 31.3 acidification equivalents and the emission of one 1 kg ammonia (NH3) is equal to 58.8 acidification equivalents.
+One acidification equivalent is equal to one mole H+. ";;"Double";"mld acid-equivalents";"1";"Impossible"
+"15";;;"TopicGroup";"";"Ozone layer depletion";"Depletion of the ozone layer as a result of emissions of CFCs and halons to air, converted to CFC12 equivalents.";;;;;
+"16";"12";"15";"Topic";"CFK12Equivalents_11";"CFK12-equivalents";"A measure of the degree to which a substance contributes to the depletion of the ozone layer. The emissions of CFCs and halons to air are converted to CFC12 equivalents. The conversion factors are based on the extent to which the different CFCs and halons affect the stratospheric ozone layer.";;"Double";"1 000 CFK12-equivalents";"1";"Impossible"
+"17";;;"TopicGroup";"";"(Other) air pollution";"Besides acidifying substances, a number of other air pollutants such as volatile organic compounds and particulate matter, contribute to the environmental theme: 'Acidification and trans boundary air pollution'.
+Included here are some individual air pollutants that are not classified and allocated to one of the other themes. These include the emissions of fine dust (PM10) and carbon monoxide (CO) into the air.";;;;;
+"18";"13";"17";"Topic";"CO_12";"CO";"Carbon monoxide.
+CO is caused by incomplete combustion of fuels.
+Toxic gas (detrimental to health).
+";;"Double";"mln kgs";"1";"Impossible"
+"19";"14";"17";"Topic";"NMVOC_13";"NMVOC";"Non-methane volatile organic compounds.
+Among others caused by incomplete combustion of fuels and evaporation of fuels, cooling agents, inland vessel load residues, and other chemical substances. VOC emissions are also formed during various industrial processes.
+Smog generating and sometimes carcinogenic.
+";;"Double";"mln kgs";"1";"Impossible"
+"20";"15";"17";"Topic";"PM10_14";"PM10";"Particulate matter (PM10 = particulates with diameter less than 10 micrometres). Among other causes, PM10 is formed during the combustion of diesel fuel, other fuels, various industrial processes, and wear processes like the wear of tyres, brake linings, road surface, and railway overhead contact lines. 
+PM10 is detrimental to health, penetrates deeply into the lungs.";;"Double";"mln kgs";"1";"Impossible"
+"DutchEconomy"
+Key;Title;Description
+"1050010";"Total private households";"Private households:
+A private household gathers one or more individuals that share the same accommodation, who provide their own everyday needs in a private, non-commercial way.
+"
+"B000579";"Total Dutch economy";"This includes emissions from households, from producers and from other domestic origin. All together, these are the emissions of all individuals and companies that belong to the Dutch economy, the so-called residents."
+"B000580";"Transport activity by private households";"Air emissions caused by transportation activities done by private households themselves."
+"B000581";"Other private households";"Emissions to air caused by other activities of households. 
+Emissions from households that stem from activities outdoors (at work, school, hotel, restaurants, cafeteria’s, etc.), are not allocated to the industries but to households. As a result, emissions stemming from households are slightly overestimated."
+"T001081";"A-U All economic activities";"All economic activities"
+"301000 ";"A Agriculture, forestry and fishing";"Agriculture, forestry and fishing"
+"300002 ";"B-E Industry (no construction), energy";"Industry (no construction) and energy"
+"305700 ";"B Mining and quarrying";"Mining and quarrying
+"
+"307500 ";"C Manufacturing";"Manufacturing"
+"307610 ";"10-12 Manufacture of food and beverages";"Manufacture of food products, beverages and tobacco"
+"312505 ";"13-15 Man. of textile-, leatherproducts";"Manufacture of textiles and textile products and of  leather and leather products"
+"315810 ";"16-18 Man. wood en paperprod., printing";"Manufacturing of wood and paper and of products of wood and paper; printing
+This category is made up of the categories:
+16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+17 Manufacture of paper and paper products
+18 Printing and reproduction of recorded media"
+"315800 ";"16 Manufacture of wood products";"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+"317100 ";"17 Manufacture of paper";"Manufacture of paper and paper products"
+"318600 ";"18 Printing and reproduction";"Printing and reproduction of recorded media"
+"320000 ";"19 Manufacture of coke and petroleum";"Manufacture of coke and refined petroleum products"
+"320705 ";"20-21 Chemistry and pharmaceuticals";"Manufacture of chemicals and pharmaceuticals"
+"320700 ";"20 Manufacture of chemicals";"Manufacture of chemicals and chemical products"
+"323200 ";"21 Manufacture of pharmaceuticals";"Manufacture of basic pharmaceutical products and pharmaceutical preparations"
+"323705 ";"22-23 Man. plastics and constructionprod";"Manufacture of rubber and plastic products and of constructionproducts
+This category is made up of the categories:
+22 Manufacture of rubber and plastic products
+23 Manufacture of other non-metallic mineral products"
+"323700 ";"22 Manufacture rubber, plastic products";"Manufacture of rubber and plastic products"
+"324600 ";"23 Manufacture of building materials";"Manufacture of other non-metallic mineral products"
+"328105 ";"24-25 Man. of basic metals and -products";"Manufacture of basic metals and fabricated metal products"
+"328100 ";"24 Manufacture of basic metals";"Manufacture of basic metals"
+"330300 ";"25 Manufacture of metal products";"Manufacture of fabricated metal products, except machinery and equipment"
+"332910 ";"26-27 Elektrical and electron. Industry";"Manufacture of computers, electronic, optical and electrical products
+This category is made up of the categories:
+26 Manufacture of computers, electronic and optical products
+27 Manufacture of electrical equipment"
+"332900 ";"26 Manufacture of electronic products";"Manufacture of computers, electronic and optical products"
+"334800 ";"27 Manufacture of electric equipment";"Manufacture of electrical equipment"
+"336500 ";"28 Manufacture of machinery n.e.c.";"Manufacture of machinery and equipment n.e.c."
+"339205 ";"29-30 Transport equipment";"Manufacture of transport equipment
+This category is made up of the categories:
+29 Manufacture of motor vehicles, trailers and semi-trailers
+30 Manufacture of other transport equipment"
+"300023 ";"31-33 Other manufacturing and repair";"Manufacture of furniture and other products; repair and installation of machinery and equipment
+This category is made up of the categories:
+31 Manufacture of furniture
+32 Manufacture of other products (rest)
+33 Repair and installation of machinery and equipment"
+"346600 ";"D Electricity and gas supply";"Electricity, gas, steam and air conditioning supply"
+"348000 ";"E Water supply and waste management";"Water supply; sewerage, waste management and remediation activities"
+"350000 ";"F Construction";"Construction"
+"300006 ";"G-I Trade, transport, hotels, catering";"Trade, transport, hotels, catering"
+"354200 ";"G Wholesale and retail trade";"Wholesale and retail trade; repair of motor vehicles and motorcycles"
+"383100 ";"H Transportation and storage";"Transportation and storage"
+"383200 ";"49 Land transport";"Land transport"
+"384900 ";"50 Water transport";"Water transport"
+"386300 ";"51 Air transport";"Air transport"
+"386800 ";"52 Warehousing, services for transport";"Warehousing and support activities for transportation"
+"388400 ";"53 Postal and courier activities";"Postal and courier activities"
+"389100 ";"I Accommodation and food serving";"Accommodation and food service activities"
+"391600 ";"J Information and communication";"Information and communication"
+"396300 ";"K Financial institutions";"Financial institutions"
+"402000 ";"L Renting, buying, selling real estate";"Renting, buying and selling of real estate"
+"300010 ";"M-N Business services";"Business services"
+"403300 ";"M Other specialised business services";"Consultancy, research and other specialised business services"
+"410200 ";"N Renting and other business support";"Renting and leasing of tangible goods and other business support services."
+"300012 ";"O-Q Government and care";"Government and care"
+"417400 ";"O Public administration and services";"Public administration, public services and compulsory social security"
+"419000 ";"P Education";"Education"
+"422400 ";"Q Health and social work activities";"Human health and social work activities"
+"300014 ";"R-U Culture, recreation, other services";"Culture, recreation, other services"
+"428100 ";"R Culture, sports and recreation";"Culture, sports and recreation"
+"435500 ";"S Other service activities";"Other service activities"
+"440000 ";"T Activities of households";"Activities of households as employers; undifferentiated goods- and service- producing activities of households for own use"
+"440900 ";"U Extraterritorial organisations";"Extraterritorial organisations and bodies"
+"A045808";"Landfill sites (waste dumps)";"Locations where waste is dumped."
+"Periods"
+Key;Title;Description;Status
+"1990JJ00";"1990";"";"Definitief"
+"1991JJ00";"1991";;"Definitief"
+"1992JJ00";"1992";"";"Definitief"
+"1993JJ00";"1993";"";"Definitief"
+"1994JJ00";"1994";"";"Definitief"
+"1995JJ00";"1995";"";"Definitief"
+"1996JJ00";"1996";"";"Definitief"
+"1997JJ00";"1997";"";"Definitief"
+"1998JJ00";"1998";"";"Definitief"
+"1999JJ00";"1999";"";"Definitief"
+"2000JJ00";"2000";"";"Definitief"
+"2001JJ00";"2001";"";"Definitief"
+"2002JJ00";"2002";"";"Definitief"
+"2003JJ00";"2003";"";"Definitief"
+"2004JJ00";"2004";"";"Definitief"
+"2005JJ00";"2005";"";"Definitief"
+"2006JJ00";"2006";"";"Definitief"
+"2007JJ00";"2007";"";"Definitief"
+"2008JJ00";"2008";"";"Definitief"
+"2009JJ00";"2009";"";"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017JJ00";"2017";;"Definitief"
+"2018JJ00";"2018";"";"Definitief"
+"2019JJ00";"2019";"";"Definitief"
+"2020JJ00";"2020";"";"Definitief"
+"2021JJ00";"2021";"Provisional figures";"Voorlopig"
