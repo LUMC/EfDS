@@ -48,6 +48,15 @@ represents all other minor gases that are not specified as a separate variable.
 Since fluorine (chlorine) was explicitly mentioned we assign this difference 
 to variable HFC (hydrofluorocarbons).
 
+
+> **Update April 16th, 2024** 
+
+HFC calculation may contain negative values. Possible reasons for these fluctuations
+may be due to reporting, measurement etc. We are not investigating the sources of these
+fluctuations, so you may ignore this and leave the data as it is as long a new column HFC
+is created based on the description here above.
+
+
 ## Q3: Implement a plot method that produces the figure below.
 
 As some of have correctly pointed out, the question is not clear and specific enough. 
@@ -64,3 +73,11 @@ but using only the 'Description' variable will suffice.
 
 HFC is wrongly categorised under *air pollution*, it should belong to&nbsp; greenhouse 
 gases. That is the reason HFC does not show up in the plot in question 4.
+
+> **Update April 16th, 2024**
+
+The example plot shows 4 emission sources based on the pattern `transport`. The search here
+was done on the `emmision_sources.Description` only. A pattern search on `emmision_sources.Title` will 
+result into more hits. A third option would be to take the union of hits in both 
+columns in `emission_sources`. All choices are counted as correct as long is the 
+search function is in place.
