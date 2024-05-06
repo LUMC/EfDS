@@ -270,16 +270,16 @@ git hash-object README.md
 Here is an example of a file describing a commit:
 
 ```bash
-# Find the hash of the newest commit (here: 2c74...)
+# Find the hash of the newest commit (here: c4b6...)
 git log --pretty=oneline | head -n 1
 # Print the file corresponding to the hash
-git cat-file -p 2c74caef76d5364eaed933f6a1a56a95ee056a40
+git cat-file -p c4b6c27f47c460c360d613a21cd36d487909c302
 ```
 
 The hash corresponding the `tree` describes the top-level directory of the project:
 
 ```bash
-git cat-file -p c172b7bd633c94a874089ec3f3c4a7990d544a7e
+git cat-file -p 59fb2c4985792cc8f7f5cccdf3dc8ed85a7864e4
 ```
 
 Finally, hashes corresponding to `blob`s contain the contents of the files:
