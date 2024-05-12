@@ -2,16 +2,17 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sb
-
+import keras
 # sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
 
 # Keras
-from keras.models import Sequential
-from keras.optimizers import Adam
-from keras import layers
+import keras
+#from keras.api.models import Sequential
+#from keras.api.optimizers import Adam
+#from keras import layers
 
 
 class Iris:
@@ -133,15 +134,16 @@ class KerasProfiling:
         self.y_test_oh = np.eye(self.t_size)[self.y_test]
 
     def nn(self, h_units=512, o_units=3):
-        self.model = Sequential()
-        self.model.add(layers.Dense(h_units, activation='relu', input_shape=(len(self.features),)))
-        self.model.add(layers.Dense(o_units, activation='softmax'))
-        self.model.compile(optimizer=Adam(), loss='categorical_crossentropy', metrics=['accuracy'])
+        self.model = keras.Sequential()
+        self.model.add(keras.layers.Dense(h_units, activation='relu', input_shape=(len(self.features),)))
+        self.model.add(keras.layers.Dense(o_units, activation='softmax'))
+        self.model.compile(optimizer=keras.optimizers.Adam(), loss='categorical_crossentropy', metrics=['accuracy'])
 
     def fit(self, epochs=100, batch_size=10, verbose=0):
         self.history = self.model.fit(self.x_train, self.y_train_oh,
                                       validation_data=(self.x_test, self.y_test_oh),
                                       epochs=epochs, batch_size=batch_size, verbose=verbose)
+
     def evaluate(self, verbose=0):
         return self.model.evaluate(self.x_test, self.y_test_oh, verbose=verbose)
 
