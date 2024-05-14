@@ -3,16 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sb
 import keras
-# sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
-
-# Keras
-import keras
-#from keras.api.models import Sequential
-#from keras.api.optimizers import Adam
-#from keras import layers
 
 
 class Iris:
@@ -32,7 +25,14 @@ class Iris:
         self.X, self.Y = self.data[self.data.columns.drop(target)], self.data[target]
         self.t_size = pd.unique(self.Y).size
 
-    def split(self, test_size=0.2, random_state=42):
+    def load_data(self, test_size=0.2, random_state=42):
+        """
+        Load Iris dataset in train and test split format.
+
+        :param test_size: default 20%
+        :param random_state: default 42
+        :return: (X_train, X_test, y_train, y_test)
+        """
         self.x_train, self.x_test, self.y_train, self.y_test = \
             train_test_split(self.X, self.Y, test_size=test_size, random_state=random_state)
         le = LabelEncoder()  # class instance
