@@ -122,7 +122,7 @@ The schedule:
         - [scikit-learn](13_ml/sklearn.ipynb)
         - [Keras](13_ml/keras.ipynb)
 - `(14)` May 21st:
-    - FAIR & data stewardship
+    - FAIR[[presentation](14_fair/fair_data_principles_2324.PDF)]  & data stewardship
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :pencil: **Data stewardship quiz**: start
 - `(--)` June 7th:
     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (end-of-day)
