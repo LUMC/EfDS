@@ -1,6 +1,4 @@
----
-title: Git and GitHub live demo
----
+# Git and GitHub live demo
 
 ## Demo of the course repo on GitHub
 
