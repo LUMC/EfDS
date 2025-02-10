@@ -1,4 +1,4 @@
-# Essentials for Data Science (2024/2025)
+# Essentials for Data Science (2024/2025 winter semester)
 
 A master-level course, part of [Statistics and Data Science master](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science), Leiden University.
 
