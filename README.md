@@ -1,4 +1,4 @@
-# Essentials for Data Science (2024/2025 winter semester)
+# Essentials for Data Science (2024/2025)
 
 A master-level course, part of [Statistics and Data Science master](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science), Leiden University.
 
@@ -64,17 +64,17 @@ The schedule:
   - [Python basic](01_python/python_basic.ipynb)
   - [Python lists and tuples](01_python/python_lists_tuples.ipynb)
   - [Memory organization](01_python/memory_organization.md)
-  - [Git/GitHub introduction](01_python/git_github_intro.md)
+  - [Git/GitHub: introduction](01_python/git_github_intro.md)
 - `(02)` Feb. 10th (Szymon/Daniela):
   - [Python sets and dictionaries](02_python/python_sets_dicts.ipynb)
-  - [Git/GitHub practice](02_python/git_practice.md)
+  - [Git/GitHub: practice](02_python/git_practice.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A** (not graded): start
 - `(03)` Feb. 17th (Szymon/Daniela):
   - [Python flow control and user functions](03_python/python_flow_control.ipynb)
+  - [Git/GitHub: how to deliver assignments](03_python/git_assignment.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B** (graded): start
 - `(04)` Feb. 24th (Szymon):
   - [Python object oriented programming](04_python/python_oop.ipynb)
-  - [Git/GitHub assignment preparation](04_python/git_assignment.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: discussion of solutions
 - `(05)` Mar. 3rd (Szymon):
   - [Python standard libraries and scripts](05_python/python_rest.ipynb)
