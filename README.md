@@ -73,7 +73,7 @@ The schedule:
   - [Python flow control and user functions](03_python/python_flow_control.ipynb)
   - [Git/GitHub: how to deliver assignments](03_python/git_assignment.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B** (graded): start
-- `(04)` Feb. 24th (Szymon):
+- `(04)` Feb. 24th (Szymon/Ramin):
   - [Python object oriented programming](04_python/python_oop.ipynb)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: discussion of solutions
 - `(05)` Mar. 3rd (Szymon):
