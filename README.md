@@ -65,7 +65,7 @@ The schedule:
   - [Python lists and tuples](01_python/python_lists_tuples.ipynb)
   - [Memory organization](01_python/memory_organization.md)
   - [Git/GitHub: introduction](01_python/git_github_intro.md)
-- `(02)` Feb. 10th (Szymon/Daniela):
+- `(02)` Feb. 10th (Szymon/Daniela+Ramin):
   - [Python sets and dictionaries](02_python/python_sets_dicts.ipynb)
   - [Git/GitHub: practice](02_python/git_practice.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A** (not graded): start
@@ -76,7 +76,7 @@ The schedule:
 - `(04)` Feb. 24th (Szymon/Ramin):
   - [Python object oriented programming](04_python/python_oop.ipynb)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: discussion of solutions
-- `(05)` Mar. 3rd (Szymon):
+- `(05)` Mar. 3rd (Szymon/Daniela):
   - [Python standard libraries and scripts](05_python/python_rest.ipynb)
 - `(06)` Mar. 10th (Ramin/Daniela):
   - [Data manipulation: NumPy](06_np/np.ipynb) &nbsp;&nbsp;[[Exercises](06_np/np_exercises.ipynb)]
