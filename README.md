@@ -79,13 +79,13 @@ The schedule:
 - `(05)` Mar. 3rd (Szymon/Daniela):
   - [Python standard libraries and scripts](05_python/python_rest.ipynb)
 - `(06)` Mar. 10th (Ramin/Daniela):
-  - [Data manipulation: NumPy](06_np/np.ipynb) &nbsp;&nbsp;[[Exercises](06_np/np_exercises.ipynb)]
+  - [Data manipulation: NumPy](06_np/np.ipynb)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: deadline (end-of-day)
-  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C** (graded): start
 - `(07)` Mar. 17th (Ramin/Daniela):
-  - [Data manipulation: pandas](07_pd/pd.ipynb) &nbsp;&nbsp;[[Exercises](07_pd/pd_exercises.ipynb)]
+  - [Data manipulation: pandas](07_pd/pd.ipynb) 
+  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C** (graded): start
 - `(08)` Mar. 31st (Ramin):
-  - [Data visualisation](08_dv/dv.ipynb) &nbsp;&nbsp;[[Exercises](08_dv/dv_exercises.ipynb)]
+  - [Data visualisation](08_dv/dv.ipynb) 
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: grades and feedback
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: create groups
 - `(09)` Apr. 7th (Szymon):
@@ -113,12 +113,12 @@ The schedule:
     - [Joining tables 2](10_sql/JOIN_adv.ipynb) (`UNION`, `EXCEPT`, `INTERSECT`, self joins, `CROSS JOIN`, subqueries, `EXIST`) [[Exercises](10_sql/JOIN_adv.exercises.ipynb)]
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: deadline (end-of-day)
 - `(11)` Apr. 28th (Daniela+Szymon):
-  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback
 - `(12)` May 12th (Daniela):
 - `(13)` May 19th (Daniela):
   - Machine learning libraries (examples)
     - [scikit-learn](13_ml/sklearn.ipynb)
     - [Keras](13_ml/keras.ipynb)
+  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback 
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (end-of-day)
 - `(14)` May 26th (Szymon):
   - [Git branching and merging](12_git/git_branching_merging.md)
