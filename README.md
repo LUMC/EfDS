@@ -79,13 +79,13 @@ The schedule:
 - `(05)` Mar. 3rd (Szymon/Daniela):
   - [Python standard libraries and scripts](05_python/python_rest.ipynb)
 - `(06)` Mar. 10th (Ramin/Daniela):
-  - [Data manipulation: NumPy](06_np/np.ipynb) &nbsp;&nbsp;[[Exercises](06_np/np_exercises.ipynb)]
+  - [Data manipulation: NumPy](06_np/np.ipynb)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: deadline (end-of-day)
-  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C** (graded): start
 - `(07)` Mar. 17th (Ramin/Daniela):
-  - [Data manipulation: pandas](07_pd/pd.ipynb) &nbsp;&nbsp;[[Exercises](07_pd/pd_exercises.ipynb)]
+  - [Data manipulation: pandas](07_pd/pd.ipynb) 
+  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C** (graded): start
 - `(08)` Mar. 31st (Ramin):
-  - [Data visualisation](08_dv/dv.ipynb) &nbsp;&nbsp;[[Exercises](08_dv/dv_exercises.ipynb)]
+  - [Data visualisation](08_dv/dv.ipynb) 
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: grades and feedback
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: create groups
 - `(09)` Apr. 7th (Szymon):
@@ -98,7 +98,6 @@ The schedule:
     - [Downloading and connecting to the example database](09_sql/connect_to_database.ipynb)
     - [Querying and selecting data](09_sql/SELECT_basic.ipynb) (`SELECT`, `LIMIT`, `AS`, `ORDER`, `DISTINCT`, `WHERE`, `IN`, `BETWEEN`, `LIKE`) [[Exercises](09_sql/SELECT_basic.exercises.ipynb)]
     - [Grouping and summarising](09_sql//SELECT_groups.ipynb) (`GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `GROUP_CONCAT`) [[Exercises](09_sql/SELECT_groups.exercises.ipynb)]
-  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment** (graded): start
 - `(10)` Apr. 14th (Szymon):
   - Relational databases:
     - [Database design anomalies](10_sql/db_design_anomalies.md)
@@ -111,17 +110,17 @@ The schedule:
     - [Data definition language](10_sql/CREATE_TABLE.ipynb) (`CREATE TABLE`, `DROP TABLE`)
     - [Joining tables 1](10_sql/JOIN_basic.ipynb) (`INNER JOIN`, `LEFT JOIN`, `CREATE TEMP TABLE`) [[Exercises](10_sql/JOIN_basic.exercises.ipynb)]
     - [Joining tables 2](10_sql/JOIN_adv.ipynb) (`UNION`, `EXCEPT`, `INTERSECT`, self joins, `CROSS JOIN`, subqueries, `EXIST`) [[Exercises](10_sql/JOIN_adv.exercises.ipynb)]
+  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment** (graded): start
+- `(11)` Apr. 28th (Szymon):
+  - [Git branching and merging](12_git/git_branching_merging.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: deadline (end-of-day)
-- `(11)` Apr. 28th (Daniela+Szymon):
-  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback
 - `(12)` May 12th (Daniela):
+  - Machine learning libraries
 - `(13)` May 19th (Daniela):
-  - Machine learning libraries (examples)
-    - [scikit-learn](13_ml/sklearn.ipynb)
-    - [Keras](13_ml/keras.ipynb)
+  - Machine learning libraries
+  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (end-of-day)
 - `(14)` May 26th (Szymon):
-  - [Git branching and merging](12_git/git_branching_merging.md)
   - General Q&A, programming practice
 - `(--)` June 13th:
   - :office: **Exam**
