@@ -1,0 +1,83 @@
+## Demo plan
+
+- Initialize empty git repository
+- Create `Vec.py`, create `test.py`; `__init__` method, `__repr__` method
+- Run `test.py` for the first time, it will create a cache file
+- Go to the CHANGES tab:
+  - discuss meaning of the file status letters
+  - discuss ADD (+), COMMIT
+  - commit `Vec.py`, `test.py`; do not commit the cache file
+- Add methods `x()` and `y()` to `Vec.py`, and test them in `test.py`:
+  - discuss the meaning of green/blue bars and red ticks in the editor
+  - discuss the popup window with the diff info
+  - discuss when to add the next commit (consistent state)
+  - commit `Vec.py`, `test.py`
+- `.gitignore`:
+  - in changes discuss the as-list/as-tree button
+  - discuss the `__pychache__` folder
+  - add `__pycache__` to the `.gitignore` file
+  - show and discuss the `.gitignore` file
+  - add `.gitignore` to the commit
+- `MulAddTrial` branch:
+  - let's start adding new methods: `add()` and `mul()`, but incompletely
+  - since the files are not finished, we don't want to commit them to the main branch
+  - the code does not work yet, for example because of `:Vec` type specification
+  - in changes, let's stage the changes
+  - let's pretend to think about the changes -> unstage the changes
+  - discuss the visualization of the staged changes in the editor tab
+  - create a new branch `MulAddTest`
+  - commit the changes to the new branch
+  - discuss the branch ids in the graph tab
+- `main` branch:
+  - prepare editor to visualize that the working directory files will change
+  - discuss the Auto/All branch tree visualization switch in GRAPH tab
+  - do checkout to switch to the main branch
+  - add docstrings to the Vec class
+  - before committing discuss where the commit will get attached (`HEAD`)
+  - commit the changes to main
+  - discuss the commit graph (`HEAD`, `main`, `AddMulTrial`)
+  - discuss what happens with the branch tag when we add a new commit
+- Play with switching branches:
+  - show switching branches in the graph tab and in the editor
+  - show how the `HEAD` tag switches in the graph tab
+  - discuss the branch names (detached `HEAD`)
+- `MulAddTrial` branch:
+  - discuss from typing `import Self`
+  - show that the code runs
+  - inspect the changes when clicking inside the CHANGES tab
+  - commit the changes
+- `main` branch, merge in `MulAddTrial` branch:
+  - Switch to the branch into which we want to merge
+  - Mouse over CHANGES tab title to see the MERGE button
+  - Merge the `MulAddTrial` branch into the main branch
+  - Discuss the GRAPH tab and the merge commit
+  - Click on the merge commit to see the changes
+- `main` branch:
+  - Add missing docstrings to the `Vec` class
+  - Commit the changes
+- `AngleTrial` branch (adding angles functionality):
+  - Let's pretend this is done on another computer, therefore the branch
+  - Add `angle()` method
+  - Extend the `__repr__` method -> this will kill one test
+  - Commit to a new branch `AngleTrial`
+- `main` branch:
+  - Checkout to the main branch
+  - Add `length()` method
+  - Add test of `Vec(3,4).length() == 5`
+  - Code/test works -> commit the changes to the main branch
+- `AngleTrial` branch:
+  - Checkout to the AngleTrial branch
+  - Correct the `__repr__` method
+  - Add tests Vec(0,1).angle() == pi/2...
+  - Commit the changes to the AngleTrial branch
+- `main` branch merge `AngleTrial` branch (CONFILCT):
+  - Repeat: the main branch is the one into which we want to merge
+  - Repeat: the main branch is the one which should always be stable
+  - Checkout to the main branch
+  - In the EXPLORER tab, right click `Vec.py` and select Open Changes with Branch
+  - Select the parallel view (not inline)
+  - Discuss the changes, discuss where the conflict will arise
+  - Do the merge
+- `main` branch:
+  - explain the grayed files in the explorer tab
+  - correct gitignore to ignore the cache dir
