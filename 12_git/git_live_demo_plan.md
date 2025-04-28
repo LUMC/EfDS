@@ -1,8 +1,11 @@
 ## Demo plan
 
-- Initialize empty git repository
-- Create `Vec.py`, create `test.py`; `__init__` method, `__repr__` method
-- Run `test.py` for the first time, it will create a cache file
+- Initialize empty git repository:
+  - Create a new directory
+  - Initialize the new repository inside that directory (use Ctrl-Shift-P, function `git init`)
+- Create the first files of the project:
+  - Create `Vec.py`, create `test.py`; `__init__` method, `__repr__` method
+  - Run `test.py` for the first time and make it work. Note: it will create a cache file
 - Go to the CHANGES tab:
   - discuss meaning of the file status letters
   - discuss ADD (+), COMMIT
@@ -81,3 +84,10 @@
 - `main` branch:
   - explain the grayed files in the explorer tab
   - correct gitignore to ignore the cache dir
+- Attaching to a newly created GitHub repo:
+  - In GitHub create a new repository (private; empty: no `README.md`, no `.gitignore`, etc.)
+  - In CHANGES/Remote choose add new remote
+  - Use the (ssh) URL of the GitHub repository; use `origin` as the remote name
+  - Push to the GitHub repo; observe new content
+  - Observe the cloud symbol on the repository graph
+  - Explain "push request" concept
