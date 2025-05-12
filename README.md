@@ -115,7 +115,7 @@ The schedule:
   - [Git branching and merging](12_git/git_branching_merging.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: deadline (end-of-day)
 - `(12)` May 12th (Daniela):
-  - Machine learning libraries
+  - [Machine Learning with sklearn](13_ml/lecture_13_ML.ipynb)
 - `(13)` May 19th (Daniela):
   - Machine learning libraries
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback
