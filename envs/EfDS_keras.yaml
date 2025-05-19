@@ -1,0 +1,14 @@
+name: EfDS_keras
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - ipykernel
+  - keras
+  - tensorflow
+  - scikit-learn
+
