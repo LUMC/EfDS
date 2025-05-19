@@ -117,7 +117,7 @@ The schedule:
 - `(12)` May 12th (Daniela):
   - [Machine Learning with sklearn](13_ml/lecture_13_ML.ipynb) [[Exercises](13_ml/Exercises_ML.ipynb)]
 - `(13)` May 19th (Daniela):
-  - Machine learning libraries
+  - [Deep learning with Keras 3.0](13_ml/lecture_14_ML_ANN.ipynb) [[Exercises](13_ml/Exercise_ANN_regression.ipynb)]
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback
 - `(14)` May 26th (Szymon):
   - General Q&A, programming practice
