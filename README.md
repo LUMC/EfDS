@@ -114,12 +114,14 @@ The schedule:
 - `(11)` Apr. 28th (Szymon):
   - [Git branching and merging](12_git/git_branching_merging.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: deadline (end-of-day)
-- `(12)` May 12th (Daniela):
+- `(12)` May 12th (Daniela/Szymon):
   - [Machine Learning with sklearn](13_ml/lecture_13_ML.ipynb) [[Exercises](13_ml/Exercises_ML.ipynb)]
-- `(13)` May 19th (Daniela):
+- `(13)` May 19th (Daniela/Szymon):
   - [Deep learning with Keras](13_ml/lecture_14_ML_ANN.ipynb) [[Exercises](13_ml/Exercise_ANN_regression.ipynb)]
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback
-- `(14)` May 26th (Szymon):
+- `(14)` May 26th (Szymon/Ramin):
+  - Assignments B and C feedback
+  - Exam information
   - General Q&A, programming practice
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (end-of-day)
 - `(--)` June 13th:
