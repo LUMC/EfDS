@@ -63,7 +63,7 @@ The schedule:
   - [Python lists and tuples](01_python/python_lists_tuples.ipynb)
   - [Memory organization](01_python/memory_organization.md)
   - [Git/GitHub: introduction](01_python/git_github_intro.md)
-- `(02)` Feb. 16th (Szymon/?):
+- `(02)` Feb. 16th (Szymon/Serena):
   - [Python sets and dictionaries](02_python/python_sets_dicts.ipynb)
   - [Git/GitHub: practice](02_python/git_practice.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A** (not graded): start
