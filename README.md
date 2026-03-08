@@ -67,20 +67,20 @@ The schedule:
   - [Python sets and dictionaries](02_python/python_sets_dicts.ipynb)
   - [Git/GitHub: practice](02_python/git_practice.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A** (not graded): start
-- `(03)` Feb. 23rd (Szymon/?):
+- `(03)` Feb. 23rd (Szymon/Serena):
   - [Python flow control and user functions](03_python/python_flow_control.ipynb)
   - [Git/GitHub: how to deliver assignments](03_python/git_assignment.md)
-- `(04)` Mar. 02nd (Szymon/?):
+- `(04)` Mar. 02nd (Szymon/Serena):
   - [Python object oriented programming](04_python/python_oop.ipynb)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :orange_book: **Assignment A**: discussion of solutions
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B** (not graded): start
-- `(05)` Mar. 09th (Szymon/?):
+- `(05)` Mar. 09th (Szymon/Serena):
   - [Python standard libraries and scripts](05_python/python_rest.ipynb)
-- `(06)` Mar. 16th (Ramin/Szymon):
+- `(06)` Mar. 16th (Ramin/Serena):
   - [Data manipulation: NumPy](06_np/np.ipynb)
-  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: discussion of solutions
-- `(07)` Mar. 23rd (Ramin/?):
+- `(07)` Mar. 23rd (Ramin/Szymon):
   - [Data manipulation: pandas](07_pd/pd.ipynb) 
+  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: discussion of solutions
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C** (graded): start
 - `(08)` Mar. 30th (Ramin/?):
   - [Data visualisation](08_dv/dv.ipynb)
