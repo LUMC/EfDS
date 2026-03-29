@@ -1,0 +1,386 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Aardgasbalans; aanbod en verbruik";"Aardgasbalans; aanbod en verbruik";"86103NED";"Winning, invoer, uitvoer, voorraadmutatie en verbruik
+Winning, invoer, uitvoer, voorraadmutatie en verbruik";"2026-03-16T02:00:00";"Actualisering";"";"nl";"CBS";"Permaand";"2015 - febuari 2026";"
+Deze tabel geeft het aanbod en verbruik van aardgas weer in balansvorm. De berekening van het aanbod is als volgt: winning uit de bodem plus productie uit andere bronnen plus invoer minus uitvoer minus de levering van aardgas aan schepen die naar het buitenland varen (bunkering) plus voorraadmutatie. Het aanbod is gelijk aan de hoeveelheid aardgas die in Nederland is verbruikt in dezelfde periode. Onder dit verbruik valt de aflevering van aardgas aan energiebedrijven. Dit is sector D uit de Standaard Bedrijfs Indeling (SBI). Daarnaast is er een post van aardgasverbruik bij de winning en transport. Tot slot is er een kleine post van het afgefakkelde of afgeblazen aardgas.
+
+Gegevens beschikbaar:
+Vanaf 2015 per jaar, per kwartaal en per maand. 
+
+Status van de cijfers: 
+- tot en met 2023 definitief;
+- 2024 zijn nader voorlopig;
+- 2025 is voorlopig.
+
+Wijzingen per 15 maart 2026
+Cijfers toegevoegd voor februari 2026
+
+Wijzigingen per 17 februari 2026:
+Cijfers toegevoegd voor januari 2026.
+
+Wijzigingen per 16 januari 2026:
+Cijfers toegevoegd voor december 2025.
+
+Wijzigingen per 15 december 2025:
+Cijfers toegevoegd voor november 2025.
+
+Wijzigingen per 18 november 2025:
+Cijfers over 2023 en 2024 zijn verbeterd. Cijfers toegevoegd voor oktober 2025.
+
+Wanneer komen er nieuwe cijfers?
+Voorlopige cijfers: een halve maand na afloop van de verslagperiode.
+Nader voorlopige cijfers: uiterlijk in juni van het jaar volgend op het verslagjaar.
+Definitieve cijfers: uiterlijk in november van het tweede jaar volgend op het verslagjaar.
+
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+Deze tabel geeft het aanbod en verbruik van aardgas weer in balansvorm. De berekening van het aanbod is als volgt: winning uit de bodem plus productie uit andere bronnen plus invoer minus uitvoer minus de levering van aardgas aan schepen die naar het buitenland varen (bunkering) plus voorraadmutatie. Het aanbod is gelijk aan de hoeveelheid aardgas die in Nederland is verbruikt in dezelfde periode. Onder dit verbruik valt de aflevering van aardgas aan energiebedrijven. Dit is sector D uit de Standaard Bedrijfs Indeling (SBI). Daarnaast is er een post van aardgasverbruik bij de winning en transport. Tot slot is er een kleine post van het afgefakkelde of afgeblazen aardgas.
+
+Gegevens beschikbaar:
+Vanaf 2015 per jaar, per kwartaal en per maand. 
+
+Status van de cijfers: 
+- tot en met 2023 definitief;
+- 2024 zijn nader voorlopig;
+- 2025 is voorlopig.
+
+Wijzingen per 15 maart 2026
+Cijfers toegevoegd voor februari 2026
+
+Wijzigingen per 17 februari 2026:
+Cijfers toegevoegd voor januari 2026.
+
+Wijzigingen per 16 januari 2026:
+Cijfers toegevoegd voor december 2025.
+
+Wijzigingen per 15 december 2025:
+Cijfers toegevoegd voor november 2025.
+
+Wijzigingen per 18 november 2025:
+Cijfers over 2023 en 2024 zijn verbeterd. Cijfers toegevoegd voor oktober 2025.
+
+Wanneer komen er nieuwe cijfers?
+Voorlopige cijfers: een halve maand na afloop van de verslagperiode.
+Nader voorlopige cijfers: uiterlijk in juni van het jaar volgend op het verslagjaar.
+Definitieve cijfers: uiterlijk in november van het tweede jaar volgend op het verslagjaar.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+Eenheid:
+Aardgas wordt gepubliceerd in miljoen kubieke meter (mln m3) aardgas-equivalent. Dit wil zeggen dat het wordt uitgedrukt bij standaard luchtdruk van 101,325 kilopascal (kPa) en temperatuur van 0 graden Celsius met een onderste verbrandingswaarde van 31,65 megajoule per m3 (MJ/m3). Deze eenheid staat ook bekend als Groningen-equivalent.
+
+Aardgas:
+Gas van natuurlijke oorsprong dat vooral bestaat uit methaan. Het ontstaat bij hetzelfde proces dat tot de vorming van aardolie leidt. Voor vervoer over lange afstanden per schip wordt aardgas vloeibaar gemaakt.
+
+Vloeibaar aardgas (Lng). 
+Aardgas in vloeibare vorm. Zo is het gemakkelijker te vervoeren over lange afstanden in schepen. Het gas wordt vloeibaar gemaakt door koeling tot circa min 160 graden Celsius. 
+
+Aanbod:
+De hoeveelheid aardgas die primair beschikbaar is gekomen voor verbruik in Nederland.
+
+Verbruik:
+De hoeveelheid aardgas die is afgeleverd aan verbruikers in Nederland. 
+
+Winning uit de bodem:
+Het onttrekken van aardgas aan de natuur. Dit kan zowel onder het vaste land zijn als uit het Nederlandse deel van de Noordzee.
+
+Productie uit andere bronnen:
+Aardgas verkregen door omzetting van andere energiedragers. Een voorbeeld is de productie van aardgas uit raffinaderijgas. Een ander voorbeeld is de productie van aardgas uit biogas. Dit wordt ook wel groen gas genoemd.
+
+Voorraadmutatie:
+De voorraadmutatie bestaat grotendeels uit voorraadveranderingen van liquefied natural gas (Lng). Tevens zijn kleine veranderingen in de noodvoorraad aardgas en in de aardgasleidingen hierbij inbegrepen. Bij extreem koud weer wordt de noodvoorraad gebruikt om de aardgasvoorziening op peil te houden. Bij warm weer wordt deze noodvoorraad weer aangevuld. Bij energiestatistieken is dit de beginvoorraad minus de eindvoorraad, conform de internationale richtlijnen voor energiestatistieken. Een positief getal betekent dus dat de voorraad is afgenomen en dat het aanbod in Nederland is toegenomen. Voor een negatief getal geldt het omgekeerde (toename van de voorraad en afname van het aanbod).
+
+Bunkering:
+De levering van brandstof voor de internationale scheepvaart en voor de internationale luchtvaart. Dit betreft schepen of vliegtuigen die vertrekken uit Nederlandse havens en aankomen in/op buitenlandse (lucht)havens. De post bunkering wordt gezien als een vorm van uitvoer. De brandstof komt namelijk niet beschikbaar voor verbruik in Nederland.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers 
+In deze tabel wordt het symbool niets (blanco) ook gebruikt voor cellen die nihil zijn.
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN 
+
+Relevante tabellen:
+
+De aardgasbalans is onderdeel van de totale energiebalans van Nederland.
+
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83140NED/""/>Energiebalans; aanbod, omzetting en verbruik</a> en 
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83989NED/""/>Energiebalans; aanbod en verbruik, sector</a>.
+
+De gearchiveerde tabel:
+<a href=/""/https://opendata.cbs.nl/statline/#/CBS/nl/dataset/00372/""/>Aardgasbalans; aanbod en verbruik, 1946 - Mei 2025</a>.
+
+Meer informatie is te vinden op de themapagina <a
+href=/""/https://www.cbs.nl/nl-nl/economie/industrie-en-energie/""/>Industrie en energie</a>.
+
+
+4. BRONNEN EN METHODEN 
+
+De onderzoeksmethode van deze tabel is te vinden in de onderzoeksbeschrijving <a href=/""/https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/winning-omzetting-en-verbruik-van-energie/""/>Winning, omzetting en verbruik van energie</a>.
+
+De eindvoorraden worden eenmaal per jaar (eind januari) geijkt op de voorraden zoals opgegeven door <a href=/""/https://agsi.gie.eu/""/>Aggregated Gas Storage Inventory (AGSI)</a>. In de overige maanden wordt de eindvoorraad bepaald door middel van de aanvoer en aflevering zoals die is bemeten door de Gasunie (GTS). Hierdoor kan het dus zijn dat er verschillen ontstaan met de waardes die worden gepubliceerd op AGSI.
+
+
+5. MEER INFORMATIE 
+
+<a href=/""/https://www.cbs.nl/nl-nl/over-ons/contact/infoservice/""/>Infoservice</a>
+
+Copyright © Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.";"ts=1773317390711&graphtype=Table&r=Topics&k=Perioden";"$filter=((Perioden eq '2024MM12') or (Perioden eq '2025MM01') or (Perioden eq '2025MM02') or (Perioden eq '2025MM12') or (Perioden eq '2026MM01') or (Perioden eq '2026MM02'))";"Table,Bar,Line";"Regulier";"CBS.";"2026-03-16T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"1";;;"TopicGroup";"";"Aanbod van aardgas";"De hoeveelheid aardgas die primair beschikbaar is gekomen voor verbruik in Nederland. De volgende posten tellen hierbij mee: winning uit de bodem plus productie uit andere bronnen plus invoer minus uitvoer plus voorraadmutatie. Het aldus berekende aanbod is gelijk aan het verbruik in de betreffende periode.";;;;;
+"2";"1";"1";"Topic";"TotaalAanbod_1";"Totaal aanbod";"De hoeveelheid aardgas die primair beschikbaar is gekomen voor verbruik in Nederland.";;"Long";"mln m3";"0";"Impossible"
+"3";"2";"1";"Topic";"WinningUitDeBodem_2";"Winning uit de bodem";"Het onttrekken van aardgas aan de bodem. Dit kan zowel onder het vaste land zijn als uit het Nederlandse deel van de Noordzee.
+
+Cijfers over fakkels zijn hierin op mindering gebracht.";;"Long";"mln m3";"0";"Impossible"
+"4";"3";"1";"Topic";"ProductieUitAndereBronnen_3";"Productie uit andere bronnen";"Aardgas verkregen door omzetting van andere energiedragers. Een voorbeeld is de productie van aardgas uit raffinaderijgas. Een ander voorbeeld is de productie van aardgas uit biogas. Dit wordt ook wel groen gas genoemd.";;"Long";"mln m3";"0";"Impossible"
+"5";;"1";"TopicGroup";"";"Invoer van gasvormig aardgas";;;;;;
+"6";"4";"5";"Topic";"InvoerVanGasvormigAardgasTotaal_4";"Invoer van gasvormig aardgas, totaal";"Invoer van gasvormig aardgas via pijpleidingen vanuit het buitenland.";;"Long";"mln m3";"0";"Impossible"
+"7";"5";"5";"Topic";"InvoerViaNoorwegen_5";"Invoer via Noorwegen";"Invoer van gasvormig aardgas via pijpleidingen vanuit Noorwegen. Noors gas komt via Duitsland de grens over bij Emden.";;"Long";"mln m3";"0";"Impossible"
+"8";"6";"5";"Topic";"InvoerViaDuitsland_6";"Invoer via Duitsland";"Invoer van gasvormig aardgas via pijpleidingen dat vanuit Duitsland komt met uitzondering van de grensovergang met Emden. Dit is inclusief opslag in Duitse gasopslagen.";;"Long";"mln m3";"0";"Impossible"
+"9";"7";"5";"Topic";"InvoerViaBelgie_7";"Invoer via België";"Invoer van gasvormig aardgas via pijpleidingen vanuit België.";;"Long";"mln m3";"0";"Impossible"
+"10";"8";"5";"Topic";"InvoerViaVerenigdKoninkrijk_8";"Invoer via Verenigd Koninkrijk";"Invoer van gasvormig aardgas vanuit het Verenigd Koninkrijk via de BBL pijpleiding en winningsvelden op zee.";;"Long";"mln m3";"0";"Impossible"
+"11";"9";"5";"Topic";"InvoerViaDenemarken_9";"Invoer via Denemarken";"Invoer van gasvormig aardgas via pijpleidingen vanuit Denemarken via winningsvelden op zee.";;"Long";"mln m3";"0";"Impossible"
+"12";;"1";"TopicGroup";"";"Invoer van vloeibaar aardgas (LNG)";;;;;;
+"13";"10";"12";"Topic";"InvoerVloeibaarAardgasLNGTotaal_10";"Invoer vloeibaar aardgas (LNG),  totaal";"Invoer van liquefied natural gas (LNG) vanuit het buitenland. Aardgas in vloeibare vorm. Zo is het gemakkelijker te vervoeren over lange afstanden in schepen. Het gas wordt vloeibaar gemaakt door koeling tot circa min 160 graden Celsius. ";;"Long";"mln m3";"0";"Missing"
+"14";"11";"12";"Topic";"InvoerUitVerenigdeStaten_11";"Invoer uit Verenigde Staten";"Invoer van vloeibaar aardgas (LNG) uit de Verenigde Staten.";;"Long";"mln m3";"0";"Missing"
+"15";"12";"12";"Topic";"InvoerUitNoorwegen_12";"Invoer uit Noorwegen";"Invoer van vloeibaar aardgas (LNG) uit Noorwegen.";;"Long";"mln m3";"0";"Missing"
+"16";"13";"12";"Topic";"InvoerUitRusland_13";"Invoer uit Rusland";"Invoer van vloeibaar aardgas (LNG) uit Rusland.";;"Long";"mln m3";"0";"Missing"
+"17";"14";"12";"Topic";"InvoerUitAfrika_14";"Invoer uit Afrika";"Invoer van vloeibaar aardgas (LNG) uit Afrika.";;"Long";"mln m3";"0";"Missing"
+"18";"15";"12";"Topic";"InvoerUitAzie_15";"Invoer uit Azië";"Invoer van vloeibaar aardgas (LNG) uit Azië.";;"Long";"mln m3";"0";"Missing"
+"19";"16";"12";"Topic";"InvoerUitAmerikaExclDeVS_16";"Invoer uit Amerika excl. de VS";"Invoer van vloeibaar aardgas (LNG) uit Noord- en Zuid-Amerika exclusief de Verenigde Staten.";;"Long";"mln m3";"0";"Missing"
+"20";"17";"12";"Topic";"InvoerUitOverigOnbekend_17";"Invoer uit Overig/onbekend";"Invoer van vloeibaar aardgas (LNG) met Onbekende en of Overige herkomst.";;"Long";"mln m3";"0";"Missing"
+"21";;"1";"TopicGroup";"";"Uitvoer van gasvormig aardgas";;;;;;
+"22";"18";"21";"Topic";"UitvoerVanGasvormigAardgasTotaal_18";"Uitvoer van gasvormig aardgas, totaal";"Uitvoer van gasvormig aardgas door pijpleidingen naar het buitenland.";;"Long";"mln m3";"0";"Impossible"
+"23";"19";"21";"Topic";"UitvoerNaarDuitsland_19";"Uitvoer naar Duitsland";"Uitvoer van gasvormig aardgas door pijpleidingen naar Duitsland met uitzonderding van de grensovergang bij Emden.";;"Long";"mln m3";"0";"Impossible"
+"24";"20";"21";"Topic";"UitvoerNaarBelgie_20";"Uitvoer naar België";"Uitvoer van gasvormig aardgas door pijpleidingen naar België.";;"Long";"mln m3";"0";"Impossible"
+"25";"21";"21";"Topic";"UitvoerNaarVerenigdKoninkrijk_21";"Uitvoer naar Verenigd Koninkrijk";"Uitvoer van gasvormig aardgas door BBL pijpleidingen naar het Verenigd Koninkrijk.";;"Long";"mln m3";"0";"Impossible"
+"26";"22";"1";"Topic";"UitvoerVanVloeibaarAardgasLNG_22";"Uitvoer van vloeibaar aardgas (LNG)";"Uitvoer van liquefied natural gas (LNG). Aardgas in vloeibare vorm.
+Zo is het gemakkelijker te vervoeren over lange afstanden in schepen. Het gas wordt vloeibaar gemaakt door koeling tot circa min 160 graden Celsius. ";;"Long";"mln m3";"0";"Impossible"
+"27";"23";"1";"Topic";"Bunkering_23";"Bunkering";"De levering van brandstof voor de internationale scheepvaart en voor de internationale luchtvaart. Dit betreft schepen of vliegtuigen die vertrekken uit Nederlandse havens en aankomen in/op buitenlandse (lucht)havens. De post bunkering wordt gezien als een vorm van uitvoer. De brandstof komt namelijk niet beschikbaar voor verbruik in Nederland.";;"Long";"mln m3";"0";"Impossible"
+"28";"24";"1";"Topic";"Voorraadmutatie_24";"Voorraadmutatie";"Voorraadveranderingen van aardgas in aardgasbergingen en opslagtanks voor vloeibaar aardgas (Lng). Tevens zijn kleine veranderingen in de noodvoorraad aardgas en in de aardgasleidingen hierbij inbegrepen. Bij extreem koud weer wordt de noodvoorraad gebruikt om de aardgasvoorziening op peil te houden. Bij warm weer wordt deze noodvoorraad weer aangevuld. Bij energiestatistieken is dit de beginvoorraad minus de eindvoorraad, conform de internationale richtlijnen voor energiestatistieken. Een positief getal betekent dus dat de voorraad is afgenomen en dat het aanbod in Nederland is toegenomen. Voor een negatief getal geldt het omgekeerde (toename van de voorraad en afname van het aanbod). 
+";;"Long";"mln m3";"0";"Impossible"
+"29";;;"TopicGroup";"";"Verbruik van aardgas";"De hoeveelheid aardgas die is afgeleverd aan verbruikers in Nederland.";;;;;
+"30";"25";"29";"Topic";"TotaalVerbruik_25";"Totaal verbruik";"De hoeveelheid aardgas die is gebruikt door bedrijven, huishoudens en vervoer in Nederland.";;"Long";"mln m3";"0";"Impossible"
+"31";"26";"29";"Topic";"Energiebedrijven_26";"Energiebedrijven";"Levering van aardgas aan energiebedrijven.
+
+Dit is sector D uit de Standaard Bedrijfs Indeling (SBI).";;"Long";"mln m3";"0";"Impossible"
+"32";"27";"29";"Topic";"VerbruikBijWinningEnAardgastransport_27";"Verbruik bij winning en aardgastransport";"Het verbruik van aardgas door winningsbedrijven op de gaswinningslocaties en door distributiebedrijven bij het transport van aardgas.";;"Long";"mln m3";"0";"Impossible"
+"33";"28";;"Topic";"Eindvoorraad_28";"Eindvoorraad";"De opgeslagen hoeveelheid aardgas aan het einde van de verslagperiode.";;"Long";"mln m3";"0";"Impossible"
+"34";"29";;"Topic";"EindvoorraadGasvormigAardgas_29";"Eindvoorraad, gasvormig aardgas";"Maximale opslagcapaciteit voor gasopslagen van gasvormig aardgas gebaseerd op cijfers van de Aggregated Gas Storage Inventory (AGSI) ";;"Long";"mln m3";"0";"Impossible"
+"35";"30";;"Topic";"EindvoorraadVloeibaarAardgasLNG_30";"Eindvoorraad, vloeibaar aardgas (LNG)";"Maximale opslagcapaciteit voor gasopslagen van vloeibaar aardgas gebaseerd op cijfers van de Aggregated LNG Storage Inventory (ALSI) ";;"Long";"mln m3";"0";"Impossible"
+"36";"31";;"Topic";"Fakkels_31";"Fakkels";"Overtollig aardgas dat tijdens de winning wordt verbrand of afgeblazen. Gaswinningsbedrijven moeten om productietechnische redenen soms gedurende een korte periode aardgas afvoeren. Bij het affakkelen wordt het aardgas verbrand. Afblazen is het onverbrand vrijlaten.
+
+Cijfers over de fakkels zijn in mindering gebracht op de winning van aardgas.";;"Long";"mln m3";"0";"Impossible"
+"37";"32";;"Topic";"OpslagcapaciteitTotaal_32";"Opslagcapaciteit, totaal";"De hoeveelheid aardgas dat kan worden opgeslagen, voor zowel gasvormig als vloeibaar aardgas.";;"Long";"mln m3";"0";"Impossible"
+"38";"33";;"Topic";"OpslagcapaciteitGasvormig_33";"Opslagcapaciteit, gasvormig";"De hoeveelheid gasvormig aardgas dat kan worden opgeslagen.";;"Long";"mln m3";"0";"Impossible"
+"39";"34";;"Topic";"OpslagcapaciteitVloeibaar_34";"Opslagcapaciteit, vloeibaar";"De hoeveelheid vloeibare aardgas dat kan worden opgeslagen.";;"Long";"mln m3";"0";"Impossible"
+"Perioden"
+Key;Title;Description;Status
+"2015MM01";"2015 januari";"";"Definitief"
+"2015MM02";"2015 februari";"";"Definitief"
+"2015MM03";"2015 maart";"";"Definitief"
+"2015KW01";"2015 1e kwartaal";"";"Definitief"
+"2015MM04";"2015 april";"";"Definitief"
+"2015MM05";"2015 mei";"";"Definitief"
+"2015MM06";"2015 juni";"";"Definitief"
+"2015KW02";"2015 2e kwartaal";"";"Definitief"
+"2015MM07";"2015 juli";"";"Definitief"
+"2015MM08";"2015 augustus";"";"Definitief"
+"2015MM09";"2015 september";"";"Definitief"
+"2015KW03";"2015 3e kwartaal";"";"Definitief"
+"2015MM10";"2015 oktober";"";"Definitief"
+"2015MM11";"2015 november";"";"Definitief"
+"2015MM12";"2015 december";"";"Definitief"
+"2015KW04";"2015 4e kwartaal";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016MM01";"2016 januari";"";"Definitief"
+"2016MM02";"2016 februari";"";"Definitief"
+"2016MM03";"2016 maart";"";"Definitief"
+"2016KW01";"2016 1e kwartaal";"";"Definitief"
+"2016MM04";"2016 april";"";"Definitief"
+"2016MM05";"2016 mei";"";"Definitief"
+"2016MM06";"2016 juni";"";"Definitief"
+"2016KW02";"2016 2e kwartaal";"";"Definitief"
+"2016MM07";"2016 juli";"";"Definitief"
+"2016MM08";"2016 augustus";"";"Definitief"
+"2016MM09";"2016 september";"";"Definitief"
+"2016KW03";"2016 3e kwartaal";"";"Definitief"
+"2016MM10";"2016 oktober";"";"Definitief"
+"2016MM11";"2016 november";"";"Definitief"
+"2016MM12";"2016 december";"";"Definitief"
+"2016KW04";"2016 4e kwartaal";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017MM01";"2017 januari";"";"Definitief"
+"2017MM02";"2017 februari";"";"Definitief"
+"2017MM03";"2017 maart";"";"Definitief"
+"2017KW01";"2017 1e kwartaal";"";"Definitief"
+"2017MM04";"2017 april";"";"Definitief"
+"2017MM05";"2017 mei";"";"Definitief"
+"2017MM06";"2017 juni";"";"Definitief"
+"2017KW02";"2017 2e kwartaal";"";"Definitief"
+"2017MM07";"2017 juli";"";"Definitief"
+"2017MM08";"2017 augustus";"";"Definitief"
+"2017MM09";"2017 september";"";"Definitief"
+"2017KW03";"2017 3e kwartaal";"";"Definitief"
+"2017MM10";"2017 oktober";"";"Definitief"
+"2017MM11";"2017 november";"";"Definitief"
+"2017MM12";"2017 december";"";"Definitief"
+"2017KW04";"2017 4e kwartaal";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018MM01";"2018 januari";"";"Definitief"
+"2018MM02";"2018 februari";"";"Definitief"
+"2018MM03";"2018 maart";"";"Definitief"
+"2018KW01";"2018 1e kwartaal";"";"Definitief"
+"2018MM04";"2018 april";"";"Definitief"
+"2018MM05";"2018 mei";"";"Definitief"
+"2018MM06";"2018 juni";"";"Definitief"
+"2018KW02";"2018 2e kwartaal";"";"Definitief"
+"2018MM07";"2018 juli";"";"Definitief"
+"2018MM08";"2018 augustus";"";"Definitief"
+"2018MM09";"2018 september";"";"Definitief"
+"2018KW03";"2018 3e kwartaal";"";"Definitief"
+"2018MM10";"2018 oktober";"";"Definitief"
+"2018MM11";"2018 november";"";"Definitief"
+"2018MM12";"2018 december";"";"Definitief"
+"2018KW04";"2018 4e kwartaal";"";"Definitief"
+"2018JJ00";"2018";"";"Definitief"
+"2019MM01";"2019 januari";"";"Definitief"
+"2019MM02";"2019 februari";"";"Definitief"
+"2019MM03";"2019 maart";"";"Definitief"
+"2019KW01";"2019 1e kwartaal";"";"Definitief"
+"2019MM04";"2019 april";"";"Definitief"
+"2019MM05";"2019 mei";"";"Definitief"
+"2019MM06";"2019 juni";"";"Definitief"
+"2019KW02";"2019 2e kwartaal";"";"Definitief"
+"2019MM07";"2019 juli";"";"Definitief"
+"2019MM08";"2019 augustus";"";"Definitief"
+"2019MM09";"2019 september";"";"Definitief"
+"2019KW03";"2019 3e kwartaal";"";"Definitief"
+"2019MM10";"2019 oktober";"";"Definitief"
+"2019MM11";"2019 november";"";"Definitief"
+"2019MM12";"2019 december";"";"Definitief"
+"2019KW04";"2019 4e kwartaal";"";"Definitief"
+"2019JJ00";"2019";"";"Definitief"
+"2020MM01";"2020 januari";"";"Definitief"
+"2020MM02";"2020 februari";"";"Definitief"
+"2020MM03";"2020 maart";"";"Definitief"
+"2020KW01";"2020 1e kwartaal";"";"Definitief"
+"2020MM04";"2020 april";"";"Definitief"
+"2020MM05";"2020 mei";"";"Definitief"
+"2020MM06";"2020 juni";"";"Definitief"
+"2020KW02";"2020 2e kwartaal";"";"Definitief"
+"2020MM07";"2020 juli";"";"Definitief"
+"2020MM08";"2020 augustus";"";"Definitief"
+"2020MM09";"2020 september";"";"Definitief"
+"2020KW03";"2020 3e kwartaal";"";"Definitief"
+"2020MM10";"2020 oktober";"";"Definitief"
+"2020MM11";"2020 november";"";"Definitief"
+"2020MM12";"2020 december";"";"Definitief"
+"2020KW04";"2020 4e kwartaal";"";"Definitief"
+"2020JJ00";"2020";"";"Definitief"
+"2021MM01";"2021 januari";"";"Definitief"
+"2021MM02";"2021 februari";"";"Definitief"
+"2021MM03";"2021 maart";"";"Definitief"
+"2021KW01";"2021 1e kwartaal";"";"Definitief"
+"2021MM04";"2021 april";"";"Definitief"
+"2021MM05";"2021 mei";"";"Definitief"
+"2021MM06";"2021 juni";"";"Definitief"
+"2021KW02";"2021 2e kwartaal";"";"Definitief"
+"2021MM07";"2021 juli";"";"Definitief"
+"2021MM08";"2021 augustus";"";"Definitief"
+"2021MM09";"2021 september";"";"Definitief"
+"2021KW03";"2021 3e kwartaal";"";"Definitief"
+"2021MM10";"2021 oktober";"";"Definitief"
+"2021MM11";"2021 november";"";"Definitief"
+"2021MM12";"2021 december";"";"Definitief"
+"2021KW04";"2021 4e kwartaal";"";"Definitief"
+"2021JJ00";"2021";"";"Definitief"
+"2022MM01";"2022 januari";"";"Definitief"
+"2022MM02";"2022 februari";"";"Definitief"
+"2022MM03";"2022 maart";"";"Definitief"
+"2022KW01";"2022 1e kwartaal";"";"Definitief"
+"2022MM04";"2022 april";"";"Definitief"
+"2022MM05";"2022 mei";"";"Definitief"
+"2022MM06";"2022 juni";"";"Definitief"
+"2022KW02";"2022 2e kwartaal";"";"Definitief"
+"2022MM07";"2022 juli";"";"Definitief"
+"2022MM08";"2022 augustus";"";"Definitief"
+"2022MM09";"2022 september";"";"Definitief"
+"2022KW03";"2022 3e kwartaal";"";"Definitief"
+"2022MM10";"2022 oktober";"";"Definitief"
+"2022MM11";"2022 november";"";"Definitief"
+"2022MM12";"2022 december";"";"Definitief"
+"2022KW04";"2022 4e kwartaal";"";"Definitief"
+"2022JJ00";"2022";"";"Definitief"
+"2023MM01";"2023 januari";"";"Definitief"
+"2023MM02";"2023 februari";"";"Definitief"
+"2023MM03";"2023 maart";"";"Definitief"
+"2023KW01";"2023 1e kwartaal";"";"Definitief"
+"2023MM04";"2023 april";"";"Definitief"
+"2023MM05";"2023 mei";"";"Definitief"
+"2023MM06";"2023 juni";"";"Definitief"
+"2023KW02";"2023 2e kwartaal";"";"Definitief"
+"2023MM07";"2023 juli";"";"Definitief"
+"2023MM08";"2023 augustus";"";"Definitief"
+"2023MM09";"2023 september";"";"Definitief"
+"2023KW03";"2023 3e kwartaal";"";"Definitief"
+"2023MM10";"2023 oktober";"";"Definitief"
+"2023MM11";"2023 november";"";"Definitief"
+"2023MM12";"2023 december";"";"Definitief"
+"2023KW04";"2023 4e kwartaal";"";"Definitief"
+"2023JJ00";"2023";"";"Definitief"
+"2024MM01";"2024 januari";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM02";"2024 februari";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM03";"2024 maart";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024KW01";"2024 1e kwartaal";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM04";"2024 april";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM05";"2024 mei";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM06";"2024 juni";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024KW02";"2024 2e kwartaal";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM07";"2024 juli";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM08";"2024 augustus";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM09";"2024 september";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024KW03";"2024 3e kwartaal";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM10";"2024 oktober";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM11";"2024 november";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024MM12";"2024 december";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024KW04";"2024 4e kwartaal";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2024JJ00";"2024";"Nader voorlopige cijfers";"NaderVoorlopig"
+"2025MM01";"2025 januari";"Voorlopige cijfers";"Voorlopig"
+"2025MM02";"2025 februari";"Voorlopige cijfers";"Voorlopig"
+"2025MM03";"2025 maart";"Voorlopige cijfers";"Voorlopig"
+"2025KW01";"2025 1e kwartaal";"Voorlopige cijfers";"Voorlopig"
+"2025MM04";"2025 april";"Voorlopige cijfers";"Voorlopig"
+"2025MM05";"2025 mei";"Voorlopige cijfers";"Voorlopig"
+"2025MM06";"2025 juni";"Voorlopige cijfers";"Voorlopig"
+"2025KW02";"2025 2e kwartaal";"Voorlopige cijfers";"Voorlopig"
+"2025MM07";"2025 juli";"Voorlopige cijfers";"Voorlopig"
+"2025MM08";"2025 augustus";"Voorlopige cijfers";"Voorlopig"
+"2025MM09";"2025 september";"Voorlopige cijfers";"Voorlopig"
+"2025KW03";"2025 3e kwartaal";"Voorlopige cijfers";"Voorlopig"
+"2025MM10";"2025 oktober";"Voorlopige cijfers";"Voorlopig"
+"2025MM11";"2025 november";"Voorlopige cijfers";"Voorlopig"
+"2025MM12";"2025 december";"Voorlopige cijfers";"Voorlopig"
+"2025KW04";"2025 4e kwartaal";"Voorlopige cijfers";"Voorlopig"
+"2025JJ00";"2025";"Voorlopige cijfers";"Voorlopig"
+"2026MM01";"2026 januari";"Voorlopige cijfers";"Voorlopig"
+"2026MM02";"2026 februari";"Voorlopige cijfers";"Voorlopig"
