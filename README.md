@@ -78,14 +78,14 @@ The schedule:
   - [Python standard libraries and scripts](05_python/python_rest.ipynb)
 - `(06)` Mar. 16th (Ramin/Serena):
   - [Data manipulation: NumPy](06_np/np.ipynb)
-- `(07)` Mar. 23rd (Ramin/Szymon):
+- `(07)` Mar. 23rd (Ramin/Serena):
   - [Data manipulation: pandas](07_pd/pd.ipynb) 
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: **Assignment B**: discussion of solutions
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C** (graded): start
-- `(08)` Mar. 30th (Ramin/?):
+- `(08)` Mar. 30th (Ramin/Serena):
   - [Data visualisation](08_dv/dv.ipynb)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: create groups
-- `(09)` Apr. 13th (Szymon/?):
+- `(09)` Apr. 13th (Szymon/Serena):
   - Relational databases:
     - [Database, database models and DataBase Management Systems](09_sql/db_database.md)
     - [Database related terms](09_sql/db_related.md)
@@ -97,7 +97,7 @@ The schedule:
     - [Grouping and summarising](09_sql//SELECT_groups.ipynb) (`GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `GROUP_CONCAT`) [[Exercises](09_sql/SELECT_groups.exercises.ipynb)]
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: deadline (end-of-day)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment** (graded): start
-- `(10)` Apr. 20th (Szymon/?):
+- `(10)` Apr. 20th (Szymon/Serena):
   - Relational databases:
     - [Database design anomalies](10_sql/db_design_anomalies.md)
     - [Database normalisation](10_sql/db_normalisation.md)
@@ -112,10 +112,10 @@ The schedule:
 - `(11)` May 04th (Szymon/Ramin):
   - [Git branching and merging](12_git/git_branching_merging.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback
-- `(12)` May 11th (Serena/?):
+- `(12)` May 11th (?/Serena):
   - [Machine Learning with sklearn](13_ml/lecture_13_ML.ipynb) [[Exercises](13_ml/Exercises_ML.ipynb)]
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (end-of-day)
-- `(13)` May 18th (Serena/Szymon):
+- `(13)` May 18th (?/Serena):
   - Exam information, Final Q&A
   - [Deep learning with Keras](13_ml/lecture_14_ML_ANN.ipynb) [[Exercises](13_ml/Exercise_ANN_regression.ipynb)]
 - `(--)` June 01st:
