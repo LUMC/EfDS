@@ -113,11 +113,11 @@ The schedule:
   - [Git branching and merging](12_git/git_branching_merging.md)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_book: **Assignment C**: grades and feedback
 - `(12)` May 11th (?/Serena):
-  - [Machine Learning with sklearn](13_ml/lecture_13_ML.ipynb) [[Exercises](13_ml/Exercises_ML.ipynb)]
+  - [Machine Learning with sklearn](13_ml/lecture_13_ML.ipynb)
+  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (end-of-day)
 - `(13)` May 18th (?/Serena):
   - Exam information, Final Q&A
-  - [Deep learning with Keras](13_ml/lecture_14_ML_ANN.ipynb) [[Exercises](13_ml/Exercise_ANN_regression.ipynb)]
-  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (end-of-day)
+  - [Deep learning with Keras](13_ml/lecture_14_ML_ANN.ipynb)
 - `(--)` June 01st:
   - :office: **Exam**
 - `(--)` June 29th:
