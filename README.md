@@ -115,9 +115,9 @@ The schedule:
 - `(12)` May 11th (?/Serena):
   - [Machine Learning with sklearn](13_ml/lecture_13_ML.ipynb)
   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :books: **Group Assignment**: deadline (end-of-day)
-- `(13)` May 18th (?/Serena):
-  - Exam information, Final Q&A
+- `(13)` May 18th (Ramin/Szymon):
   - [Deep learning with Keras](13_ml/lecture_14_ML_ANN.ipynb)
+  - Exam information, Final Q&A
 - `(--)` June 01st:
   - :office: **Exam**
 - `(--)` June 29th:
